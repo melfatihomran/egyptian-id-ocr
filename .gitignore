@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data (synthetic images can be regenerated, keep repo light)
+data/synthetic_clean/*.png
+data/synthetic_clean/*.jpg
+data/synthetic_degraded/*.png
+data/synthetic_degraded/*.jpg
+!data/synthetic_clean/.gitkeep
+!data/synthetic_degraded/.gitkeep
+
+# Model weights (downloaded at runtime, not committed)
+*.pdiparams
+*.pdmodel
+*.pdopt
+models/
+.paddleocr/
+
+# Logs and metrics outputs
+*.log
+outputs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
