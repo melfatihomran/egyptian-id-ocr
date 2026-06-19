@@ -1,0 +1,32 @@
+{
+  "full_name": "ياسر مصطفى أحمد متولي",
+  "address": "221 ميدان الحرية، طنطا، الغربية",
+  "national_id": "28909133505579",
+  "national_id_eastern": "٢٨٩٠٩١٣٣٥٠٥٥٧٩",
+  "governorate_code": "35",
+  "governorate_name": "جنوب سيناء",
+  "is_male": true,
+  "birth_year": 1989,
+  "birth_month": 9,
+  "birth_day": 13,
+  "sample_id": "sample_0018",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      291.8885192871094,
+      166.0203094482422
+    ],
+    [
+      1267.49609375,
+      149.30311584472656
+    ],
+    [
+      1285.62890625,
+      773.11572265625
+    ],
+    [
+      193.4032745361328,
+      819.4740600585938
+    ]
+  ]
+}

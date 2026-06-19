@@ -1,0 +1,32 @@
+{
+  "full_name": "هبة بلال مازن كامل",
+  "address": "89 ميدان السلام، شبرا، القاهرة",
+  "national_id": "28202050304622",
+  "national_id_eastern": "٢٨٢٠٢٠٥٠٣٠٤٦٢٢",
+  "governorate_code": "03",
+  "governorate_name": "بورسعيد",
+  "is_male": false,
+  "birth_year": 1982,
+  "birth_month": 2,
+  "birth_day": 5,
+  "sample_id": "sample_0019",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      338.640625,
+      272.0856018066406
+    ],
+    [
+      1206.2708740234375,
+      303.584228515625
+    ],
+    [
+      1254.251708984375,
+      865.9800415039062
+    ],
+    [
+      478.8924865722656,
+      926.364990234375
+    ]
+  ]
+}

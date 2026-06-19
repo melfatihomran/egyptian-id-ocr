@@ -1,0 +1,32 @@
+{
+  "full_name": "آية محمد خالد صادق",
+  "address": "69 ممر الجيش، سموحة، الإسكندرية",
+  "national_id": "28503263401829",
+  "national_id_eastern": "٢٨٥٠٣٢٦٣٤٠١٨٢٩",
+  "governorate_code": "34",
+  "governorate_name": "شمال سيناء",
+  "is_male": false,
+  "birth_year": 1985,
+  "birth_month": 3,
+  "birth_day": 26,
+  "sample_id": "sample_0004",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      253.0550537109375,
+      113.95063018798828
+    ],
+    [
+      1576.73583984375,
+      367.3122253417969
+    ],
+    [
+      1474.92431640625,
+      981.0386352539062
+    ],
+    [
+      230.5892333984375,
+      788.549072265625
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "زياد طارق محمود السيد",
+  "address": "192 شارع الجمهورية، كفر الزيات، الغربية",
+  "national_id": "27003281105797",
+  "national_id_eastern": "٢٧٠٠٣٢٨١١٠٥٧٩٧",
+  "governorate_code": "11",
+  "governorate_name": "دمياط",
+  "is_male": true,
+  "birth_year": 1970,
+  "birth_month": 3,
+  "birth_day": 28,
+  "sample_id": "sample_0014",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      682.03271484375,
+      347.72802734375
+    ],
+    [
+      1718.3541259765625,
+      480.9736328125
+    ],
+    [
+      1154.9312744140625,
+      1089.592041015625
+    ],
+    [
+      261.5679016113281,
+      976.8705444335938
+    ]
+  ]
+}

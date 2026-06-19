@@ -1,0 +1,642 @@
+[
+  {
+    "full_name": "ياسمين أمير علي عمران",
+    "address": "109 شارع الاستقلال، كفر الزيات، الغربية",
+    "national_id": "27112091402289",
+    "national_id_eastern": "٢٧١١٢٠٩١٤٠٢٢٨٩",
+    "governorate_code": "14",
+    "governorate_name": "القليوبية",
+    "is_male": false,
+    "birth_year": 1971,
+    "birth_month": 12,
+    "birth_day": 9,
+    "sample_id": "sample_0000",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        223.32827758789062,
+        188.40151977539062
+      ],
+      [
+        1193.68603515625,
+        186.68853759765625
+      ],
+      [
+        1311.3785400390625,
+        783.662353515625
+      ],
+      [
+        188.81373596191406,
+        840.5054931640625
+      ]
+    ]
+  },
+  {
+    "full_name": "وليد بلال رامي البدري",
+    "address": "127 شارع الثورة، محرم بك، الإسكندرية",
+    "national_id": "30509093205992",
+    "national_id_eastern": "٣٠٥٠٩٠٩٣٢٠٥٩٩٢",
+    "governorate_code": "32",
+    "governorate_name": "الوادي الجديد",
+    "is_male": true,
+    "birth_year": 2005,
+    "birth_month": 9,
+    "birth_day": 9,
+    "sample_id": "sample_0001",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        351.0123291015625,
+        274.7460632324219
+      ],
+      [
+        1544.6134033203125,
+        301.4272155761719
+      ],
+      [
+        1486.1435546875,
+        880.7048950195312
+      ],
+      [
+        455.26092529296875,
+        854.4063720703125
+      ]
+    ]
+  },
+  {
+    "full_name": "حسين محمود هشام خليل",
+    "address": "34 شارع الثورة، سموحة، الإسكندرية",
+    "national_id": "27304030208819",
+    "national_id_eastern": "٢٧٣٠٤٠٣٠٢٠٨٨١٩",
+    "governorate_code": "02",
+    "governorate_name": "الإسكندرية",
+    "is_male": true,
+    "birth_year": 1973,
+    "birth_month": 4,
+    "birth_day": 3,
+    "sample_id": "sample_0002",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        447.715576171875,
+        -62.72677230834961
+      ],
+      [
+        1460.7030029296875,
+        602.5018310546875
+      ],
+      [
+        1452.103759765625,
+        826.1143798828125
+      ],
+      [
+        363.08978271484375,
+        971.0076293945312
+      ]
+    ]
+  },
+  {
+    "full_name": "مازن حسين يوسف عبدالرحمن",
+    "address": "77 ممر السلام، بلبيس، الشرقية",
+    "national_id": "30306091306851",
+    "national_id_eastern": "٣٠٣٠٦٠٩١٣٠٦٨٥١",
+    "governorate_code": "13",
+    "governorate_name": "الشرقية",
+    "is_male": true,
+    "birth_year": 2003,
+    "birth_month": 6,
+    "birth_day": 9,
+    "sample_id": "sample_0003",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        253.8383331298828,
+        161.83236694335938
+      ],
+      [
+        1187.179443359375,
+        137.80709838867188
+      ],
+      [
+        1335.4512939453125,
+        831.1876220703125
+      ],
+      [
+        188.22113037109375,
+        794.3172607421875
+      ]
+    ]
+  },
+  {
+    "full_name": "آية محمد خالد صادق",
+    "address": "69 ممر الجيش، سموحة، الإسكندرية",
+    "national_id": "28503263401829",
+    "national_id_eastern": "٢٨٥٠٣٢٦٣٤٠١٨٢٩",
+    "governorate_code": "34",
+    "governorate_name": "شمال سيناء",
+    "is_male": false,
+    "birth_year": 1985,
+    "birth_month": 3,
+    "birth_day": 26,
+    "sample_id": "sample_0004",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        253.0550537109375,
+        113.95063018798828
+      ],
+      [
+        1576.73583984375,
+        367.3122253417969
+      ],
+      [
+        1474.92431640625,
+        981.0386352539062
+      ],
+      [
+        230.5892333984375,
+        788.549072265625
+      ]
+    ]
+  },
+  {
+    "full_name": "هدى فادي عادل الشريف",
+    "address": "58 ممر النيل، المعادي، القاهرة",
+    "national_id": "28011031605280",
+    "national_id_eastern": "٢٨٠١١٠٣١٦٠٥٢٨٠",
+    "governorate_code": "16",
+    "governorate_name": "الغربية",
+    "is_male": false,
+    "birth_year": 1980,
+    "birth_month": 11,
+    "birth_day": 3,
+    "sample_id": "sample_0005",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        130.74488830566406,
+        261.578369140625
+      ],
+      [
+        1338.810791015625,
+        147.03421020507812
+      ],
+      [
+        1449.1036376953125,
+        644.2333374023438
+      ],
+      [
+        749.3870239257812,
+        903.9694213867188
+      ]
+    ]
+  },
+  {
+    "full_name": "وفاء بلال يوسف سليمان",
+    "address": "8 ميدان عبدالعزيز آل سعود، فيصل، الجيزة",
+    "national_id": "29609243205507",
+    "national_id_eastern": "٢٩٦٠٩٢٤٣٢٠٥٥٠٧",
+    "governorate_code": "32",
+    "governorate_name": "الوادي الجديد",
+    "is_male": false,
+    "birth_year": 1996,
+    "birth_month": 9,
+    "birth_day": 24,
+    "sample_id": "sample_0006",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        307.9801330566406,
+        144.3694305419922
+      ],
+      [
+        1267.493408203125,
+        174.1327667236328
+      ],
+      [
+        1234.6104736328125,
+        800.7543334960938
+      ],
+      [
+        232.98196411132812,
+        831.5751342773438
+      ]
+    ]
+  },
+  {
+    "full_name": "روان مازن عمر حسين",
+    "address": "70 ممر السلام، الشيخ زايد، الجيزة",
+    "national_id": "27607122809121",
+    "national_id_eastern": "٢٧٦٠٧١٢٢٨٠٩١٢١",
+    "governorate_code": "28",
+    "governorate_name": "أسوان",
+    "is_male": false,
+    "birth_year": 1976,
+    "birth_month": 7,
+    "birth_day": 12,
+    "sample_id": "sample_0007",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        475.7183532714844,
+        292.9303283691406
+      ],
+      [
+        1420.197509765625,
+        239.74217224121094
+      ],
+      [
+        1163.8680419921875,
+        825.3292846679688
+      ],
+      [
+        214.51109313964844,
+        691.875244140625
+      ]
+    ]
+  },
+  {
+    "full_name": "عماد حسين خالد محمود",
+    "address": "103 شارع الجمهورية، سموحة، الإسكندرية",
+    "national_id": "27010102304914",
+    "national_id_eastern": "٢٧٠١٠١٠٢٣٠٤٩١٤",
+    "governorate_code": "23",
+    "governorate_name": "الفيوم",
+    "is_male": true,
+    "birth_year": 1970,
+    "birth_month": 10,
+    "birth_day": 10,
+    "sample_id": "sample_0008",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        383.25091552734375,
+        260.00445556640625
+      ],
+      [
+        1334.3218994140625,
+        127.06510925292969
+      ],
+      [
+        1527.0311279296875,
+        826.9708251953125
+      ],
+      [
+        594.694091796875,
+        1162.670654296875
+      ]
+    ]
+  },
+  {
+    "full_name": "عماد حمزة مصطفى علي",
+    "address": "249 ممر عبدالعزيز آل سعود، السنبلاوين، الدقهلية",
+    "national_id": "27203162406672",
+    "national_id_eastern": "٢٧٢٠٣١٦٢٤٠٦٦٧٢",
+    "governorate_code": "24",
+    "governorate_name": "المنيا",
+    "is_male": true,
+    "birth_year": 1972,
+    "birth_month": 3,
+    "birth_day": 16,
+    "sample_id": "sample_0009",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        176.83238220214844,
+        205.41429138183594
+      ],
+      [
+        1304.5322265625,
+        124.14281463623047
+      ],
+      [
+        1316.731201171875,
+        755.1553955078125
+      ],
+      [
+        189.0361328125,
+        838.92138671875
+      ]
+    ]
+  },
+  {
+    "full_name": "طارق يوسف نور الدين متولي",
+    "address": "181 ميدان عبدالعزيز آل سعود، الزقازيق، الشرقية",
+    "national_id": "29004231405856",
+    "national_id_eastern": "٢٩٠٠٤٢٣١٤٠٥٨٥٦",
+    "governorate_code": "14",
+    "governorate_name": "القليوبية",
+    "is_male": true,
+    "birth_year": 1990,
+    "birth_month": 4,
+    "birth_day": 23,
+    "sample_id": "sample_0010",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        382.3387451171875,
+        214.2637481689453
+      ],
+      [
+        1423.9503173828125,
+        195.68209838867188
+      ],
+      [
+        1409.293701171875,
+        765.9165649414062
+      ],
+      [
+        424.6817932128906,
+        871.0435180664062
+      ]
+    ]
+  },
+  {
+    "full_name": "رانيا إبراهيم طارق سليمان",
+    "address": "92 ميدان الاستقلال، المعادي، القاهرة",
+    "national_id": "29712092208664",
+    "national_id_eastern": "٢٩٧١٢٠٩٢٢٠٨٦٦٤",
+    "governorate_code": "22",
+    "governorate_name": "بني سويف",
+    "is_male": false,
+    "birth_year": 1997,
+    "birth_month": 12,
+    "birth_day": 9,
+    "sample_id": "sample_0011",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        557.8600463867188,
+        130.54368591308594
+      ],
+      [
+        1401.056640625,
+        152.1784210205078
+      ],
+      [
+        1672.7625732421875,
+        852.0809326171875
+      ],
+      [
+        639.1723022460938,
+        1169.408203125
+      ]
+    ]
+  },
+  {
+    "full_name": "سارة عمر أحمد محمود",
+    "address": "61 شارع الجمهورية، سموحة، الإسكندرية",
+    "national_id": "29912102804182",
+    "national_id_eastern": "٢٩٩١٢١٠٢٨٠٤١٨٢",
+    "governorate_code": "28",
+    "governorate_name": "أسوان",
+    "is_male": false,
+    "birth_year": 1999,
+    "birth_month": 12,
+    "birth_day": 10,
+    "sample_id": "sample_0012",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        296.7899475097656,
+        132.79916381835938
+      ],
+      [
+        1237.1708984375,
+        129.050048828125
+      ],
+      [
+        1194.336181640625,
+        821.1959838867188
+      ],
+      [
+        255.1015625,
+        819.2369384765625
+      ]
+    ]
+  },
+  {
+    "full_name": "جنى نور الدين طارق حسين",
+    "address": "19 ميدان عبدالعزيز آل سعود، طنطا، الغربية",
+    "national_id": "28908210100620",
+    "national_id_eastern": "٢٨٩٠٨٢١٠١٠٠٦٢٠",
+    "governorate_code": "01",
+    "governorate_name": "القاهرة",
+    "is_male": false,
+    "birth_year": 1989,
+    "birth_month": 8,
+    "birth_day": 21,
+    "sample_id": "sample_0013",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        356.286865234375,
+        146.86668395996094
+      ],
+      [
+        1253.197265625,
+        131.98988342285156
+      ],
+      [
+        1350.575927734375,
+        853.1976928710938
+      ],
+      [
+        480.80316162109375,
+        911.5567016601562
+      ]
+    ]
+  },
+  {
+    "full_name": "زياد طارق محمود السيد",
+    "address": "192 شارع الجمهورية، كفر الزيات، الغربية",
+    "national_id": "27003281105797",
+    "national_id_eastern": "٢٧٠٠٣٢٨١١٠٥٧٩٧",
+    "governorate_code": "11",
+    "governorate_name": "دمياط",
+    "is_male": true,
+    "birth_year": 1970,
+    "birth_month": 3,
+    "birth_day": 28,
+    "sample_id": "sample_0014",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        682.03271484375,
+        347.72802734375
+      ],
+      [
+        1718.3541259765625,
+        480.9736328125
+      ],
+      [
+        1154.9312744140625,
+        1089.592041015625
+      ],
+      [
+        261.5679016113281,
+        976.8705444335938
+      ]
+    ]
+  },
+  {
+    "full_name": "عبدالرحمن عمر يوسف إبراهيم",
+    "address": "155 شارع التحرير، فيصل، الجيزة",
+    "national_id": "29206243506612",
+    "national_id_eastern": "٢٩٢٠٦٢٤٣٥٠٦٦١٢",
+    "governorate_code": "35",
+    "governorate_name": "جنوب سيناء",
+    "is_male": true,
+    "birth_year": 1992,
+    "birth_month": 6,
+    "birth_day": 24,
+    "sample_id": "sample_0015",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        245.8705596923828,
+        131.8955535888672
+      ],
+      [
+        1284.281982421875,
+        198.485107421875
+      ],
+      [
+        1278.9097900390625,
+        767.3600463867188
+      ],
+      [
+        183.11695861816406,
+        801.1533203125
+      ]
+    ]
+  },
+  {
+    "full_name": "محمود حسن سامح البدري",
+    "address": "180 شارع السلام، المحلة الكبرى، الغربية",
+    "national_id": "29503203109610",
+    "national_id_eastern": "٢٩٥٠٣٢٠٣١٠٩٦١٠",
+    "governorate_code": "31",
+    "governorate_name": "البحر الأحمر",
+    "is_male": true,
+    "birth_year": 1995,
+    "birth_month": 3,
+    "birth_day": 20,
+    "sample_id": "sample_0016",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        230.90170288085938,
+        305.1620788574219
+      ],
+      [
+        1494.0101318359375,
+        189.58566284179688
+      ],
+      [
+        1229.3369140625,
+        924.7969970703125
+      ],
+      [
+        517.9948120117188,
+        830.8578491210938
+      ]
+    ]
+  },
+  {
+    "full_name": "إيمان طارق محمود النجار",
+    "address": "215 ميدان الجمهورية، الدقي، الجيزة",
+    "national_id": "29601132403828",
+    "national_id_eastern": "٢٩٦٠١١٣٢٤٠٣٨٢٨",
+    "governorate_code": "24",
+    "governorate_name": "المنيا",
+    "is_male": false,
+    "birth_year": 1996,
+    "birth_month": 1,
+    "birth_day": 13,
+    "sample_id": "sample_0017",
+    "severity": "heavy",
+    "card_corners_in_degraded_image": [
+      [
+        67.40637969970703,
+        452.1213684082031
+      ],
+      [
+        1618.371337890625,
+        14.649231910705566
+      ],
+      [
+        1718.731201171875,
+        786.9686889648438
+      ],
+      [
+        670.8677978515625,
+        1041.5128173828125
+      ]
+    ]
+  },
+  {
+    "full_name": "ياسر مصطفى أحمد متولي",
+    "address": "221 ميدان الحرية، طنطا، الغربية",
+    "national_id": "28909133505579",
+    "national_id_eastern": "٢٨٩٠٩١٣٣٥٠٥٥٧٩",
+    "governorate_code": "35",
+    "governorate_name": "جنوب سيناء",
+    "is_male": true,
+    "birth_year": 1989,
+    "birth_month": 9,
+    "birth_day": 13,
+    "sample_id": "sample_0018",
+    "severity": "light",
+    "card_corners_in_degraded_image": [
+      [
+        291.8885192871094,
+        166.0203094482422
+      ],
+      [
+        1267.49609375,
+        149.30311584472656
+      ],
+      [
+        1285.62890625,
+        773.11572265625
+      ],
+      [
+        193.4032745361328,
+        819.4740600585938
+      ]
+    ]
+  },
+  {
+    "full_name": "هبة بلال مازن كامل",
+    "address": "89 ميدان السلام، شبرا، القاهرة",
+    "national_id": "28202050304622",
+    "national_id_eastern": "٢٨٢٠٢٠٥٠٣٠٤٦٢٢",
+    "governorate_code": "03",
+    "governorate_name": "بورسعيد",
+    "is_male": false,
+    "birth_year": 1982,
+    "birth_month": 2,
+    "birth_day": 5,
+    "sample_id": "sample_0019",
+    "severity": "medium",
+    "card_corners_in_degraded_image": [
+      [
+        338.640625,
+        272.0856018066406
+      ],
+      [
+        1206.2708740234375,
+        303.584228515625
+      ],
+      [
+        1254.251708984375,
+        865.9800415039062
+      ],
+      [
+        478.8924865722656,
+        926.364990234375
+      ]
+    ]
+  }
+]

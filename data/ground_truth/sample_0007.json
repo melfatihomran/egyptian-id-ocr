@@ -1,0 +1,32 @@
+{
+  "full_name": "روان مازن عمر حسين",
+  "address": "70 ممر السلام، الشيخ زايد، الجيزة",
+  "national_id": "27607122809121",
+  "national_id_eastern": "٢٧٦٠٧١٢٢٨٠٩١٢١",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": false,
+  "birth_year": 1976,
+  "birth_month": 7,
+  "birth_day": 12,
+  "sample_id": "sample_0007",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      475.7183532714844,
+      292.9303283691406
+    ],
+    [
+      1420.197509765625,
+      239.74217224121094
+    ],
+    [
+      1163.8680419921875,
+      825.3292846679688
+    ],
+    [
+      214.51109313964844,
+      691.875244140625
+    ]
+  ]
+}

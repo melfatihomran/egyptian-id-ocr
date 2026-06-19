@@ -1,0 +1,32 @@
+{
+  "full_name": "هدى فادي عادل الشريف",
+  "address": "58 ممر النيل، المعادي، القاهرة",
+  "national_id": "28011031605280",
+  "national_id_eastern": "٢٨٠١١٠٣١٦٠٥٢٨٠",
+  "governorate_code": "16",
+  "governorate_name": "الغربية",
+  "is_male": false,
+  "birth_year": 1980,
+  "birth_month": 11,
+  "birth_day": 3,
+  "sample_id": "sample_0005",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      130.74488830566406,
+      261.578369140625
+    ],
+    [
+      1338.810791015625,
+      147.03421020507812
+    ],
+    [
+      1449.1036376953125,
+      644.2333374023438
+    ],
+    [
+      749.3870239257812,
+      903.9694213867188
+    ]
+  ]
+}

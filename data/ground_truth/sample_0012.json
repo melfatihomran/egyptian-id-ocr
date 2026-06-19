@@ -1,0 +1,32 @@
+{
+  "full_name": "سارة عمر أحمد محمود",
+  "address": "61 شارع الجمهورية، سموحة، الإسكندرية",
+  "national_id": "29912102804182",
+  "national_id_eastern": "٢٩٩١٢١٠٢٨٠٤١٨٢",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": false,
+  "birth_year": 1999,
+  "birth_month": 12,
+  "birth_day": 10,
+  "sample_id": "sample_0012",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      296.7899475097656,
+      132.79916381835938
+    ],
+    [
+      1237.1708984375,
+      129.050048828125
+    ],
+    [
+      1194.336181640625,
+      821.1959838867188
+    ],
+    [
+      255.1015625,
+      819.2369384765625
+    ]
+  ]
+}
