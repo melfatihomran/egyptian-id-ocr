@@ -3,109 +3,61 @@
   "by_severity": {
     "light": {
       "n": 50,
-      "passed": 50,
-      "pass_rate": 1.0,
-      "mean_iou": 0.9892,
+      "passed": 49,
+      "pass_rate": 0.98,
+      "mean_iou": 0.9808,
       "fallbacks_used": 0
     },
     "medium": {
       "n": 50,
-      "passed": 49,
-      "pass_rate": 0.98,
-      "mean_iou": 0.9841,
+      "passed": 50,
+      "pass_rate": 1.0,
+      "mean_iou": 0.9893,
       "fallbacks_used": 0
     },
     "heavy": {
       "n": 50,
-      "passed": 32,
-      "pass_rate": 0.64,
-      "mean_iou": 0.8191,
+      "passed": 41,
+      "pass_rate": 0.82,
+      "mean_iou": 0.8731,
       "fallbacks_used": 1
     }
   },
   "failures": [
     {
-      "sample_id": "sample_0017",
+      "sample_id": "sample_0005",
       "severity": "heavy",
-      "iou": 0.6131,
+      "iou": 0.5167,
+      "fallback_used": false
+    },
+    {
+      "sample_id": "sample_0023",
+      "severity": "heavy",
+      "iou": 0.2491,
       "fallback_used": false
     },
     {
       "sample_id": "sample_0026",
       "severity": "heavy",
-      "iou": 0.4168,
+      "iou": 0.3892,
       "fallback_used": false
     },
     {
       "sample_id": "sample_0032",
       "severity": "heavy",
-      "iou": 0.549,
+      "iou": 0.2984,
       "fallback_used": false
     },
     {
-      "sample_id": "sample_0044",
+      "sample_id": "sample_0038",
       "severity": "heavy",
-      "iou": 0.6705,
+      "iou": 0.5311,
       "fallback_used": false
     },
     {
-      "sample_id": "sample_0050",
+      "sample_id": "sample_0047",
       "severity": "heavy",
-      "iou": 0.5262,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0059",
-      "severity": "heavy",
-      "iou": 0.0035,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0062",
-      "severity": "heavy",
-      "iou": 0.5361,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0083",
-      "severity": "heavy",
-      "iou": 0.7471,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0091",
-      "severity": "medium",
-      "iou": 0.7296,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0101",
-      "severity": "heavy",
-      "iou": 0.838,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0107",
-      "severity": "heavy",
-      "iou": 0.6654,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0110",
-      "severity": "heavy",
-      "iou": 0.6895,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0113",
-      "severity": "heavy",
-      "iou": 0.7611,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0116",
-      "severity": "heavy",
-      "iou": 0.0028,
+      "iou": 0.4177,
       "fallback_used": false
     },
     {
@@ -115,21 +67,15 @@
       "fallback_used": true
     },
     {
-      "sample_id": "sample_0125",
-      "severity": "heavy",
-      "iou": 0.7265,
-      "fallback_used": false
-    },
-    {
-      "sample_id": "sample_0134",
-      "severity": "heavy",
-      "iou": 0.7884,
+      "sample_id": "sample_0129",
+      "severity": "light",
+      "iou": 0.5697,
       "fallback_used": false
     },
     {
       "sample_id": "sample_0137",
       "severity": "heavy",
-      "iou": 0.5322,
+      "iou": 0.5114,
       "fallback_used": false
     },
     {

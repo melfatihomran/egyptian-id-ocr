@@ -29,63 +29,62 @@ class PreprocessResult:
 
 
 def _order_quad_points(pts: np.ndarray) -> np.ndarray:
-    """Order 4 points as TL, TR, BR, BL based on sum/diff heuristic."""
-    pts = pts.reshape(4, 2)
-    ordered = np.zeros((4, 2), dtype=np.float32)
-    s = pts.sum(axis=1)
-    diff = np.diff(pts, axis=1).reshape(-1)
-    ordered[0] = pts[np.argmin(s)]       # top-left: smallest x+y
-    ordered[2] = pts[np.argmax(s)]       # bottom-right: largest x+y
-    ordered[1] = pts[np.argmin(diff)]    # top-right: smallest y-x
-    ordered[3] = pts[np.argmax(diff)]    # bottom-left: largest y-x
+    """
+    Order 4 points as TL, TR, BR, BL.
+
+    Previously used an independent sum/diff heuristic per corner (smallest
+    x+y -> TL, largest x+y -> BR, etc). That breaks down for elongated or
+    steeply-angled quads (common on "heavy" severity samples shot at a
+    raking angle): two different heuristics can both point to the *same*
+    physical corner, so e.g. TR and BR end up assigned the same point and
+    the other corner is dropped entirely - collapsing the quad and silently
+    producing a garbage (near-zero-area or duplicated-point) result instead
+    of an error. This was found via IoU evaluation against ground truth
+    (scripts/evaluate_preprocessing.py) - several "confident" detections on
+    heavy samples had near-zero IoU despite the underlying contour actually
+    being a reasonable match.
+
+    Fix: sort points by angle around their centroid first. This always
+    produces a valid non-self-intersecting cyclic order (it's a bijection -
+    each point gets a distinct angle slot), then we just need to pick a
+    consistent starting corner and rotation direction, which is safe to do
+    after the cyclic order is already guaranteed valid.
+    """
+    pts = pts.reshape(4, 2).astype(np.float32)
+    centroid = pts.mean(axis=0)
+    angles = np.arctan2(pts[:, 1] - centroid[1], pts[:, 0] - centroid[0])
+    cyclic = pts[np.argsort(angles)]
+
+    # Ensure clockwise order in image coordinates (y increases downward):
+    # TL -> TR -> BR -> BL should go right, then down, then left, then up.
+    signed_area = sum(
+        cyclic[i][0] * cyclic[(i + 1) % 4][1] - cyclic[(i + 1) % 4][0] * cyclic[i][1]
+        for i in range(4)
+    )
+    if signed_area < 0:
+        cyclic = cyclic[::-1]
+
+    # Rotate so the corner closest to the top-left (smallest x+y) comes first.
+    start = int(np.argmin(cyclic.sum(axis=1)))
+    ordered = np.roll(cyclic, -start, axis=0)
     return ordered
 
 
-def detect_card_contour(img_bgr: np.ndarray, debug=False):
+def _blob_candidates(signal: np.ndarray, image_area: int, w: int, h: int):
     """
-    Finds the card's quadrilateral in the image.
-    Returns ordered (TL,TR,BR,BL) float32 array, or None if not confidently found.
-
-    Primary strategy: Otsu threshold on grayscale to isolate the card as one
-    solid bright connected blob against a darker background, then take its
-    largest contour. This is more robust than pure Canny edge detection for
-    cards with a colored (e.g. navy) header that has low luminance contrast
-    against the background but still differs enough in overall brightness
-    from a typical desk/table backdrop - edge detection alone was found to
-    inconsistently miss that header's outer boundary in testing.
-
-    Falls back to a combined grayscale+saturation Canny edge approach if the
-    Otsu-based blob doesn't yield a plausible 4-sided shape (e.g. very low
-    global contrast, or background brighter than the card).
+    Runs Otsu threshold + largest-connected-blob extraction on a single
+    grayscale-like signal. Returns a list of (area, extent, quad) tuples for
+    every polarity that passes basic plausibility checks. `extent` is
+    contour_area / minAreaRect_area: close to 1.0 for a solid quadrilateral
+    blob, much lower (~0.5) for a triangular/wedge-shaped blob - which is
+    exactly the shape produced by the gradient-split failure mode described
+    below, so it doubles as a cheap "does this actually look like a card"
+    sanity check.
     """
-    h, w = img_bgr.shape[:2]
-    image_area = h * w
-
-    def _quad_from_contour(c):
-        peri = cv2.arcLength(c, True)
-        approx = cv2.approxPolyDP(c, 0.02 * peri, True)
-        if len(approx) == 4 and cv2.isContourConvex(approx):
-            return approx.reshape(4, 2).astype(np.float32)
-        rect = cv2.minAreaRect(c)
-        return cv2.boxPoints(rect).astype(np.float32)
-
-    # --- Strategy 1: Otsu threshold + largest connected blob ---
-    # Use max(grayscale, saturation) per pixel rather than grayscale alone:
-    # a colored (e.g. navy) header can have almost the same luminance as a
-    # dark background while being far more saturated, so grayscale-only
-    # thresholding would merge it into the background and crop it off.
-    gray = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2GRAY)
-    hsv = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV)
-    sat = hsv[:, :, 1]
-    # normalize saturation onto a comparable scale to grayscale brightness,
-    # then take the per-pixel max so either a brightness OR color edge lifts
-    # a region out of the background class
-    combined = np.maximum(gray, (sat.astype(np.float32) * 0.7).astype(np.uint8))
-    blurred = cv2.GaussianBlur(combined, (7, 7), 0)
+    blurred = cv2.GaussianBlur(signal, (7, 7), 0)
     _, otsu = cv2.threshold(blurred, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-    # The card could be the bright OR dark region depending on background;
-    # pick whichever polarity yields a centrally-located, plausible-area blob.
+    candidates = []
     for candidate_mask in (otsu, cv2.bitwise_not(otsu)):
         mask = cv2.morphologyEx(candidate_mask, cv2.MORPH_CLOSE,
                                  np.ones((9, 9), np.uint8))
@@ -96,22 +95,90 @@ def detect_card_contour(img_bgr: np.ndarray, debug=False):
         area = cv2.contourArea(largest)
         if not (image_area * 0.10 <= area <= image_area * 0.80):
             continue
-        # Sanity check: blob shouldn't touch all four image edges (that's
-        # almost certainly the whole background, not the card)
         x, y, bw, bh = cv2.boundingRect(largest)
         margin = 2
         touches_all_edges = (x <= margin and y <= margin and
                               x + bw >= w - margin and y + bh >= h - margin)
         if touches_all_edges:
             continue
-        quad = _quad_from_contour(largest)
-        return _order_quad_points(quad)
 
-    # --- Strategy 2 (fallback): Canny edges on the combined signal + separate saturation pass ---
-    edges_gray = cv2.Canny(blurred, 50, 150)
+        rect = cv2.minAreaRect(largest)
+        rect_area = rect[1][0] * rect[1][1]
+        extent = area / rect_area if rect_area > 0 else 0.0
+
+        peri = cv2.arcLength(largest, True)
+        approx = cv2.approxPolyDP(largest, 0.02 * peri, True)
+        if len(approx) == 4 and cv2.isContourConvex(approx):
+            quad = approx.reshape(4, 2).astype(np.float32)
+        else:
+            quad = cv2.boxPoints(rect).astype(np.float32)
+        candidates.append((area, extent, quad))
+    return candidates
+
+
+def detect_card_contour(img_bgr: np.ndarray, debug=False):
+    """
+    Finds the card's quadrilateral in the image.
+    Returns ordered (TL,TR,BR,BL) float32 array, or None if not confidently found.
+
+    Primary strategy: Otsu threshold on a brightness/saturation signal to
+    isolate the card as one solid connected blob against the background,
+    then take its largest contour. Using max(grayscale, saturation) rather
+    than grayscale alone matters because a colored (e.g. navy) header can
+    have almost the same luminance as a dark background while being far
+    more saturated - grayscale-only thresholding would merge it into the
+    background and crop it off.
+
+    Known failure mode this guards against: under strong directional
+    lighting (the "heavy" degradation tier adds a synthetic light gradient
+    across the card), a single global Otsu threshold can end up splitting
+    the CARD ITSELF along its own brightness gradient instead of along the
+    true card/background boundary - producing a wedge-shaped blob that
+    covers only part of the card but still passes naive area/edge-touching
+    checks. This was caught via IoU evaluation against ground-truth corners
+    (see scripts/evaluate_preprocessing.py) showing a cluster of confident-
+    looking but wrong detections concentrated in heavy-severity samples.
+
+    Fix: compute candidates from both the raw signal AND a CLAHE-equalized
+    version (which flattens broad lighting gradients while preserving the
+    sharp card/background edge), then among all candidates prefer ones with
+    high "extent" (contour area / its own minAreaRect area) - a true card
+    blob is solidly rectangular (extent ~0.9-1.0), while a gradient-split
+    wedge is triangular (extent ~0.5) - and take the largest-area one that
+    passes that shape check.
+
+    Falls back to a combined grayscale+saturation Canny edge approach if no
+    blob candidate is found at all (e.g. very low global contrast between
+    card and background - a separate, harder failure mode not fixed by the
+    above, currently a documented limitation rather than solved).
+    """
+    h, w = img_bgr.shape[:2]
+    image_area = h * w
+
+    gray = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2GRAY)
     hsv = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV)
-    sat = cv2.GaussianBlur(hsv[:, :, 1], (5, 5), 0)
-    edges_sat = cv2.Canny(sat, 50, 150)
+    sat = hsv[:, :, 1]
+    combined_raw = np.maximum(gray, (sat.astype(np.float32) * 0.7).astype(np.uint8))
+
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    gray_eq = clahe.apply(gray)
+    combined_eq = np.maximum(gray_eq, (sat.astype(np.float32) * 0.7).astype(np.uint8))
+
+    candidates = _blob_candidates(combined_raw, image_area, w, h)
+    candidates += _blob_candidates(combined_eq, image_area, w, h)
+
+    if candidates:
+        EXTENT_THRESHOLD = 0.75
+        shaped_ok = [c for c in candidates if c[1] >= EXTENT_THRESHOLD]
+        pool = shaped_ok if shaped_ok else candidates
+        pool.sort(key=lambda c: c[0], reverse=True)  # largest area first
+        return _order_quad_points(pool[0][2])
+
+    # --- Fallback: Canny edges on the combined signal + separate saturation pass ---
+    blurred = cv2.GaussianBlur(combined_raw, (7, 7), 0)
+    edges_gray = cv2.Canny(blurred, 50, 150)
+    sat_blur = cv2.GaussianBlur(sat, (5, 5), 0)
+    edges_sat = cv2.Canny(sat_blur, 50, 150)
     edges = cv2.bitwise_or(edges_gray, edges_sat)
     edges = cv2.dilate(edges, np.ones((3, 3), np.uint8), iterations=2)
 
@@ -124,7 +191,13 @@ def detect_card_contour(img_bgr: np.ndarray, debug=False):
     if not in_range:
         return None
     largest = max(in_range, key=cv2.contourArea)
-    quad = _quad_from_contour(largest)
+    peri = cv2.arcLength(largest, True)
+    approx = cv2.approxPolyDP(largest, 0.02 * peri, True)
+    if len(approx) == 4 and cv2.isContourConvex(approx):
+        quad = approx.reshape(4, 2).astype(np.float32)
+    else:
+        rect = cv2.minAreaRect(largest)
+        quad = cv2.boxPoints(rect).astype(np.float32)
     return _order_quad_points(quad)
 
 
