@@ -1,0 +1,32 @@
+{
+  "full_name": "سلمى يوسف طارق إبراهيم",
+  "address": "151 ممر النيل، المعادي، القاهرة",
+  "national_id": "27904090101009",
+  "national_id_eastern": "٢٧٩٠٤٠٩٠١٠١٠٠٩",
+  "governorate_code": "01",
+  "governorate_name": "القاهرة",
+  "is_male": false,
+  "birth_year": 1979,
+  "birth_month": 4,
+  "birth_day": 9,
+  "sample_id": "sample_0103",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      487.82562255859375,
+      382.3931884765625
+    ],
+    [
+      1295.634521484375,
+      175.8299560546875
+    ],
+    [
+      1489.51416015625,
+      788.9049072265625
+    ],
+    [
+      410.63037109375,
+      1041.9224853515625
+    ]
+  ]
+}

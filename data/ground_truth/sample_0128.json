@@ -1,0 +1,32 @@
+{
+  "full_name": "حسن حمزة علي الشيخ",
+  "address": "127 ميدان مكرم عبيد، طنطا، الغربية",
+  "national_id": "29809053504650",
+  "national_id_eastern": "٢٩٨٠٩٠٥٣٥٠٤٦٥٠",
+  "governorate_code": "35",
+  "governorate_name": "جنوب سيناء",
+  "is_male": true,
+  "birth_year": 1998,
+  "birth_month": 9,
+  "birth_day": 5,
+  "sample_id": "sample_0128",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      738.2682495117188,
+      434.52459716796875
+    ],
+    [
+      1634.552490234375,
+      378.7912292480469
+    ],
+    [
+      1504.533203125,
+      1057.2335205078125
+    ],
+    [
+      460.19464111328125,
+      754.20361328125
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "أمل مازن كريم عبدالعزيز",
+  "address": "220 ممر الجيش، طنطا، الغربية",
+  "national_id": "28505181903161",
+  "national_id_eastern": "٢٨٥٠٥١٨١٩٠٣١٦١",
+  "governorate_code": "19",
+  "governorate_name": "الإسماعيلية",
+  "is_male": false,
+  "birth_year": 1985,
+  "birth_month": 5,
+  "birth_day": 18,
+  "sample_id": "sample_0079",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      193.72865295410156,
+      308.21905517578125
+    ],
+    [
+      1255.985107421875,
+      127.3277587890625
+    ],
+    [
+      1217.836181640625,
+      794.1203002929688
+    ],
+    [
+      338.300537109375,
+      879.1018676757812
+    ]
+  ]
+}

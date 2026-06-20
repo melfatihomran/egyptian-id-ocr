@@ -1,0 +1,32 @@
+{
+  "full_name": "هدى علي أمير خليل",
+  "address": "131 شارع الجيش، بلبيس، الشرقية",
+  "national_id": "29212133201426",
+  "national_id_eastern": "٢٩٢١٢١٣٣٢٠١٤٢٦",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 1992,
+  "birth_month": 12,
+  "birth_day": 13,
+  "sample_id": "sample_0050",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      588.3242797851562,
+      96.04019165039062
+    ],
+    [
+      1820.400390625,
+      414.7712707519531
+    ],
+    [
+      1250.3001708984375,
+      913.0259399414062
+    ],
+    [
+      144.59483337402344,
+      630.2135009765625
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "نادية طارق بلال البدري",
+  "address": "74 ميدان النصر، محرم بك، الإسكندرية",
+  "national_id": "28705042606923",
+  "national_id_eastern": "٢٨٧٠٥٠٤٢٦٠٦٩٢٣",
+  "governorate_code": "26",
+  "governorate_name": "سوهاج",
+  "is_male": false,
+  "birth_year": 1987,
+  "birth_month": 5,
+  "birth_day": 4,
+  "sample_id": "sample_0022",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      348.11383056640625,
+      235.2980194091797
+    ],
+    [
+      1383.7359619140625,
+      348.8789367675781
+    ],
+    [
+      1197.7354736328125,
+      878.5057373046875
+    ],
+    [
+      241.1856689453125,
+      912.5782470703125
+    ]
+  ]
+}

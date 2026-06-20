@@ -1,0 +1,32 @@
+{
+  "full_name": "مصطفى مازن عادل عبدالعزيز",
+  "address": "108 ممر السلام، طنطا، الغربية",
+  "national_id": "28309070405751",
+  "national_id_eastern": "٢٨٣٠٩٠٧٠٤٠٥٧٥١",
+  "governorate_code": "04",
+  "governorate_name": "السويس",
+  "is_male": true,
+  "birth_year": 1983,
+  "birth_month": 9,
+  "birth_day": 7,
+  "sample_id": "sample_0116",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      786.1093139648438,
+      483.0468444824219
+    ],
+    [
+      1808.5703125,
+      653.9654541015625
+    ],
+    [
+      1171.7418212890625,
+      1122.716064453125
+    ],
+    [
+      56.84696578979492,
+      951.0895385742188
+    ]
+  ]
+}

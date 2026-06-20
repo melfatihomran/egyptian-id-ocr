@@ -1,0 +1,32 @@
+{
+  "full_name": "عادل مصطفى عمر حسن",
+  "address": "4 ممر الجمهورية، محرم بك، الإسكندرية",
+  "national_id": "28001132704396",
+  "national_id_eastern": "٢٨٠٠١١٣٢٧٠٤٣٩٦",
+  "governorate_code": "27",
+  "governorate_name": "قنا",
+  "is_male": true,
+  "birth_year": 1980,
+  "birth_month": 1,
+  "birth_day": 13,
+  "sample_id": "sample_0080",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      273.7325134277344,
+      36.67229461669922
+    ],
+    [
+      1505.2440185546875,
+      274.71417236328125
+    ],
+    [
+      1421.6995849609375,
+      785.3018798828125
+    ],
+    [
+      582.2508544921875,
+      847.1773681640625
+    ]
+  ]
+}

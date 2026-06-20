@@ -1,0 +1,32 @@
+{
+  "full_name": "مازن وليد كريم الفاتح",
+  "address": "180 شارع الحرية، المحلة الكبرى، الغربية",
+  "national_id": "29403182602151",
+  "national_id_eastern": "٢٩٤٠٣١٨٢٦٠٢١٥١",
+  "governorate_code": "26",
+  "governorate_name": "سوهاج",
+  "is_male": true,
+  "birth_year": 1994,
+  "birth_month": 3,
+  "birth_day": 18,
+  "sample_id": "sample_0134",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      790.163330078125,
+      541.0121459960938
+    ],
+    [
+      1203.3397216796875,
+      451.94183349609375
+    ],
+    [
+      1671.26171875,
+      571.0018310546875
+    ],
+    [
+      477.15887451171875,
+      1286.068359375
+    ]
+  ]
+}

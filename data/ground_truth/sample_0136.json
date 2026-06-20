@@ -1,0 +1,32 @@
+{
+  "full_name": "نادية سيف طارق عمران",
+  "address": "243 شارع الحرية، المعادي، القاهرة",
+  "national_id": "29302261204349",
+  "national_id_eastern": "٢٩٣٠٢٢٦١٢٠٤٣٤٩",
+  "governorate_code": "12",
+  "governorate_name": "الدقهلية",
+  "is_male": false,
+  "birth_year": 1993,
+  "birth_month": 2,
+  "birth_day": 26,
+  "sample_id": "sample_0136",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      176.14431762695312,
+      280.5119323730469
+    ],
+    [
+      1286.318359375,
+      298.6693420410156
+    ],
+    [
+      1484.366455078125,
+      1004.1744995117188
+    ],
+    [
+      308.6919250488281,
+      714.5634765625
+    ]
+  ]
+}

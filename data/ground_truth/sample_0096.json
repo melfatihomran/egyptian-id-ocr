@@ -1,0 +1,32 @@
+{
+  "full_name": "ياسر علي مازن زكي",
+  "address": "154 ميدان الجمهورية، طلخا، الدقهلية",
+  "national_id": "28307103306133",
+  "national_id_eastern": "٢٨٣٠٧١٠٣٣٠٦١٣٣",
+  "governorate_code": "33",
+  "governorate_name": "مطروح",
+  "is_male": true,
+  "birth_year": 1983,
+  "birth_month": 7,
+  "birth_day": 10,
+  "sample_id": "sample_0096",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      292.7378234863281,
+      184.59890747070312
+    ],
+    [
+      1198.66015625,
+      148.2495880126953
+    ],
+    [
+      1212.84375,
+      773.1421508789062
+    ],
+    [
+      335.5328063964844,
+      776.308837890625
+    ]
+  ]
+}

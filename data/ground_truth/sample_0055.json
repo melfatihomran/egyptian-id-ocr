@@ -1,0 +1,32 @@
+{
+  "full_name": "حمزة سيف فادي محمود",
+  "address": "180 ممر التحرير، حلوان، القاهرة",
+  "national_id": "30102222703476",
+  "national_id_eastern": "٣٠١٠٢٢٢٢٧٠٣٤٧٦",
+  "governorate_code": "27",
+  "governorate_name": "قنا",
+  "is_male": true,
+  "birth_year": 2001,
+  "birth_month": 2,
+  "birth_day": 22,
+  "sample_id": "sample_0055",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      149.44851684570312,
+      138.5212860107422
+    ],
+    [
+      1225.6866455078125,
+      91.79613494873047
+    ],
+    [
+      1429.54638671875,
+      817.7070922851562
+    ],
+    [
+      357.8605041503906,
+      905.9910278320312
+    ]
+  ]
+}

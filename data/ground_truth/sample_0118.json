@@ -1,0 +1,32 @@
+{
+  "full_name": "سارة يوسف علي محمود",
+  "address": "17 ميدان الجيش، الزمالك، القاهرة",
+  "national_id": "27611022802549",
+  "national_id_eastern": "٢٧٦١١٠٢٢٨٠٢٥٤٩",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": false,
+  "birth_year": 1976,
+  "birth_month": 11,
+  "birth_day": 2,
+  "sample_id": "sample_0118",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      223.9148712158203,
+      281.3435363769531
+    ],
+    [
+      1261.5050048828125,
+      53.91975784301758
+    ],
+    [
+      1338.2490234375,
+      869.5578002929688
+    ],
+    [
+      554.8385620117188,
+      964.7384033203125
+    ]
+  ]
+}

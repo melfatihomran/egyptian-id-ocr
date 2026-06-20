@@ -1,0 +1,32 @@
+{
+  "full_name": "هبة مصطفى زياد راشد",
+  "address": "39 شارع الجمهورية، الهرم، الجيزة",
+  "national_id": "29605271606622",
+  "national_id_eastern": "٢٩٦٠٥٢٧١٦٠٦٦٢٢",
+  "governorate_code": "16",
+  "governorate_name": "الغربية",
+  "is_male": false,
+  "birth_year": 1996,
+  "birth_month": 5,
+  "birth_day": 27,
+  "sample_id": "sample_0078",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      268.56640625,
+      159.68670654296875
+    ],
+    [
+      1215.7513427734375,
+      180.2034149169922
+    ],
+    [
+      1247.8858642578125,
+      791.1979370117188
+    ],
+    [
+      205.82984924316406,
+      803.8927612304688
+    ]
+  ]
+}

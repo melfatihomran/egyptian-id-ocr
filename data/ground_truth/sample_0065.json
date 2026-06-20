@@ -1,0 +1,32 @@
+{
+  "full_name": "بلال ياسر زياد حسين",
+  "address": "207 شارع السلام، الدقي، الجيزة",
+  "national_id": "27411011107398",
+  "national_id_eastern": "٢٧٤١١٠١١١٠٧٣٩٨",
+  "governorate_code": "11",
+  "governorate_name": "دمياط",
+  "is_male": true,
+  "birth_year": 1974,
+  "birth_month": 11,
+  "birth_day": 1,
+  "sample_id": "sample_0065",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      788.1227416992188,
+      113.8810043334961
+    ],
+    [
+      1614.6917724609375,
+      481.6054382324219
+    ],
+    [
+      1407.101806640625,
+      1126.2957763671875
+    ],
+    [
+      208.08103942871094,
+      863.851806640625
+    ]
+  ]
+}

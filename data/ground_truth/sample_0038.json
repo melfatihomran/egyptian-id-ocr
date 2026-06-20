@@ -1,0 +1,32 @@
+{
+  "full_name": "ملك وليد سامح عمران",
+  "address": "21 ميدان النيل، بلبيس، الشرقية",
+  "national_id": "28409023503968",
+  "national_id_eastern": "٢٨٤٠٩٠٢٣٥٠٣٩٦٨",
+  "governorate_code": "35",
+  "governorate_name": "جنوب سيناء",
+  "is_male": false,
+  "birth_year": 1984,
+  "birth_month": 9,
+  "birth_day": 2,
+  "sample_id": "sample_0038",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      360.1991882324219,
+      561.9827270507812
+    ],
+    [
+      1521.2305908203125,
+      -24.976947784423828
+    ],
+    [
+      1471.9114990234375,
+      735.8655395507812
+    ],
+    [
+      400.0211181640625,
+      935.974853515625
+    ]
+  ]
+}

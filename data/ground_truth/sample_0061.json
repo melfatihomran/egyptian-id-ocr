@@ -1,0 +1,32 @@
+{
+  "full_name": "أمل كريم أحمد السيد",
+  "address": "77 ممر الاستقلال، شبرا، القاهرة",
+  "national_id": "28301061100562",
+  "national_id_eastern": "٢٨٣٠١٠٦١١٠٠٥٦٢",
+  "governorate_code": "11",
+  "governorate_name": "دمياط",
+  "is_male": false,
+  "birth_year": 1983,
+  "birth_month": 1,
+  "birth_day": 6,
+  "sample_id": "sample_0061",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      497.15374755859375,
+      254.85794067382812
+    ],
+    [
+      1265.3463134765625,
+      284.816162109375
+    ],
+    [
+      1311.1954345703125,
+      779.848388671875
+    ],
+    [
+      260.8868103027344,
+      893.7998657226562
+    ]
+  ]
+}

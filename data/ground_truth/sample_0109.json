@@ -1,0 +1,32 @@
+{
+  "full_name": "إيمان طارق وليد زكي",
+  "address": "211 ممر الثورة، أبو حماد، الشرقية",
+  "national_id": "29103262809449",
+  "national_id_eastern": "٢٩١٠٣٢٦٢٨٠٩٤٤٩",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": false,
+  "birth_year": 1991,
+  "birth_month": 3,
+  "birth_day": 26,
+  "sample_id": "sample_0109",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      425.76727294921875,
+      83.64613342285156
+    ],
+    [
+      1216.2061767578125,
+      118.70077514648438
+    ],
+    [
+      1412.4539794921875,
+      904.2788696289062
+    ],
+    [
+      212.08468627929688,
+      754.0248413085938
+    ]
+  ]
+}

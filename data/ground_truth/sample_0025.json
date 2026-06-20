@@ -1,0 +1,32 @@
+{
+  "full_name": "سامح ياسر يوسف خليل",
+  "address": "144 ميدان النصر، محرم بك، الإسكندرية",
+  "national_id": "27905131207738",
+  "national_id_eastern": "٢٧٩٠٥١٣١٢٠٧٧٣٨",
+  "governorate_code": "12",
+  "governorate_name": "الدقهلية",
+  "is_male": true,
+  "birth_year": 1979,
+  "birth_month": 5,
+  "birth_day": 13,
+  "sample_id": "sample_0025",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      179.80088806152344,
+      238.38319396972656
+    ],
+    [
+      1291.8155517578125,
+      269.7688293457031
+    ],
+    [
+      1393.89306640625,
+      854.46533203125
+    ],
+    [
+      453.8489990234375,
+      835.3392944335938
+    ]
+  ]
+}

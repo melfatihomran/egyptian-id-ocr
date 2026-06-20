@@ -1,0 +1,32 @@
+{
+  "full_name": "سهر رامي عمر فهمي",
+  "address": "45 ممر النيل، الهرم، الجيزة",
+  "national_id": "27112231809702",
+  "national_id_eastern": "٢٧١١٢٢٣١٨٠٩٧٠٢",
+  "governorate_code": "18",
+  "governorate_name": "البحيرة",
+  "is_male": false,
+  "birth_year": 1971,
+  "birth_month": 12,
+  "birth_day": 23,
+  "sample_id": "sample_0036",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      193.31187438964844,
+      190.6424560546875
+    ],
+    [
+      1219.2821044921875,
+      198.359375
+    ],
+    [
+      1217.81982421875,
+      827.1685180664062
+    ],
+    [
+      194.6898651123047,
+      825.2119750976562
+    ]
+  ]
+}

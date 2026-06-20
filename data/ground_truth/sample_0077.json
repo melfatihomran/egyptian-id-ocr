@@ -1,0 +1,32 @@
+{
+  "full_name": "فاطمة سامح حسين محمود",
+  "address": "231 ممر الثورة، أبو حماد، الشرقية",
+  "national_id": "27405041701741",
+  "national_id_eastern": "٢٧٤٠٥٠٤١٧٠١٧٤١",
+  "governorate_code": "17",
+  "governorate_name": "المنوفية",
+  "is_male": false,
+  "birth_year": 1974,
+  "birth_month": 5,
+  "birth_day": 4,
+  "sample_id": "sample_0077",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      811.519775390625,
+      291.5611877441406
+    ],
+    [
+      1564.7197265625,
+      460.0747985839844
+    ],
+    [
+      1388.0526123046875,
+      988.4483032226562
+    ],
+    [
+      528.9127197265625,
+      905.979248046875
+    ]
+  ]
+}

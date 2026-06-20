@@ -1,0 +1,32 @@
+{
+  "full_name": "نهى أمير سيف فهمي",
+  "address": "71 شارع السلام، ميت غمر، الدقهلية",
+  "national_id": "27806123208205",
+  "national_id_eastern": "٢٧٨٠٦١٢٣٢٠٨٢٠٥",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 1978,
+  "birth_month": 6,
+  "birth_day": 12,
+  "sample_id": "sample_0106",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      219.9727783203125,
+      139.0072784423828
+    ],
+    [
+      1245.8294677734375,
+      271.4605407714844
+    ],
+    [
+      1522.9888916015625,
+      931.9716796875
+    ],
+    [
+      337.262939453125,
+      918.7080688476562
+    ]
+  ]
+}

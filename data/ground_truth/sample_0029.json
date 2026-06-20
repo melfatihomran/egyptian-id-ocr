@@ -1,0 +1,32 @@
+{
+  "full_name": "نهى حسن حسين كامل",
+  "address": "122 ميدان الحرية، أكتوبر، الجيزة",
+  "national_id": "27502273201462",
+  "national_id_eastern": "٢٧٥٠٢٢٧٣٢٠١٤٦٢",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 1975,
+  "birth_month": 2,
+  "birth_day": 27,
+  "sample_id": "sample_0029",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      152.67807006835938,
+      241.298828125
+    ],
+    [
+      1182.3614501953125,
+      228.49319458007812
+    ],
+    [
+      1545.8582763671875,
+      949.8565063476562
+    ],
+    [
+      401.1492004394531,
+      929.52685546875
+    ]
+  ]
+}

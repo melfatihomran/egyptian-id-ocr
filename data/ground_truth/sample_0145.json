@@ -1,0 +1,32 @@
+{
+  "full_name": "سهر إبراهيم عمر خليل",
+  "address": "169 شارع الجيش، طلخا، الدقهلية",
+  "national_id": "27608163208528",
+  "national_id_eastern": "٢٧٦٠٨١٦٣٢٠٨٥٢٨",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 1976,
+  "birth_month": 8,
+  "birth_day": 16,
+  "sample_id": "sample_0145",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      410.681396484375,
+      57.956024169921875
+    ],
+    [
+      1336.452880859375,
+      310.4544677734375
+    ],
+    [
+      1527.376220703125,
+      837.9943237304688
+    ],
+    [
+      210.8212127685547,
+      781.1405029296875
+    ]
+  ]
+}

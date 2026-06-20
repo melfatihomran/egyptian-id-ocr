@@ -1,0 +1,32 @@
+{
+  "full_name": "ياسمين سيف سيف عثمان",
+  "address": "106 شارع مكرم عبيد، بلبيس، الشرقية",
+  "national_id": "29606212902528",
+  "national_id_eastern": "٢٩٦٠٦٢١٢٩٠٢٥٢٨",
+  "governorate_code": "29",
+  "governorate_name": "الأقصر",
+  "is_male": false,
+  "birth_year": 1996,
+  "birth_month": 6,
+  "birth_day": 21,
+  "sample_id": "sample_0085",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      209.0142822265625,
+      188.67872619628906
+    ],
+    [
+      1389.646728515625,
+      327.64642333984375
+    ],
+    [
+      1208.79345703125,
+      764.0353393554688
+    ],
+    [
+      451.4631652832031,
+      856.510498046875
+    ]
+  ]
+}

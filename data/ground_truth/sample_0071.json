@@ -1,0 +1,32 @@
+{
+  "full_name": "ريم أمير حمزة محمود",
+  "address": "99 شارع الجمهورية، ميت غمر، الدقهلية",
+  "national_id": "28311032709029",
+  "national_id_eastern": "٢٨٣١١٠٣٢٧٠٩٠٢٩",
+  "governorate_code": "27",
+  "governorate_name": "قنا",
+  "is_male": false,
+  "birth_year": 1983,
+  "birth_month": 11,
+  "birth_day": 3,
+  "sample_id": "sample_0071",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      311.9132995605469,
+      307.93646240234375
+    ],
+    [
+      1542.5015869140625,
+      140.47215270996094
+    ],
+    [
+      1166.814208984375,
+      1090.947265625
+    ],
+    [
+      291.1312561035156,
+      1194.1904296875
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "نور إبراهيم عماد أحمد",
+  "address": "211 ممر الحرية، أبو حماد، الشرقية",
+  "national_id": "28712142706628",
+  "national_id_eastern": "٢٨٧١٢١٤٢٧٠٦٦٢٨",
+  "governorate_code": "27",
+  "governorate_name": "قنا",
+  "is_male": false,
+  "birth_year": 1987,
+  "birth_month": 12,
+  "birth_day": 14,
+  "sample_id": "sample_0039",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      327.2253112792969,
+      170.01364135742188
+    ],
+    [
+      1273.963134765625,
+      158.26812744140625
+    ],
+    [
+      1215.840576171875,
+      823.0675659179688
+    ],
+    [
+      254.5074005126953,
+      779.5400390625
+    ]
+  ]
+}

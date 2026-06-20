@@ -1,0 +1,32 @@
+{
+  "full_name": "روان عادل عادل محمود",
+  "address": "182 شارع النصر، محرم بك، الإسكندرية",
+  "national_id": "27304032101180",
+  "national_id_eastern": "٢٧٣٠٤٠٣٢١٠١١٨٠",
+  "governorate_code": "21",
+  "governorate_name": "الجيزة",
+  "is_male": false,
+  "birth_year": 1973,
+  "birth_month": 4,
+  "birth_day": 3,
+  "sample_id": "sample_0033",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      184.5513153076172,
+      159.4842071533203
+    ],
+    [
+      1228.0977783203125,
+      188.8164520263672
+    ],
+    [
+      1238.99072265625,
+      798.8655395507812
+    ],
+    [
+      179.4105682373047,
+      772.25341796875
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "ياسمين عمر ياسر مصطفى",
+  "address": "249 ميدان الحرية، ميت غمر، الدقهلية",
+  "national_id": "29205192507943",
+  "national_id_eastern": "٢٩٢٠٥١٩٢٥٠٧٩٤٣",
+  "governorate_code": "25",
+  "governorate_name": "أسيوط",
+  "is_male": false,
+  "birth_year": 1992,
+  "birth_month": 5,
+  "birth_day": 19,
+  "sample_id": "sample_0091",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      344.7344665527344,
+      179.3931884765625
+    ],
+    [
+      1147.4000244140625,
+      288.2245178222656
+    ],
+    [
+      1546.6326904296875,
+      681.6602783203125
+    ],
+    [
+      450.56683349609375,
+      863.24072265625
+    ]
+  ]
+}

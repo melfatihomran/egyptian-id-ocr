@@ -1,0 +1,32 @@
+{
+  "full_name": "هدى رامي محمد النجار",
+  "address": "129 ميدان النيل، سيدي جابر، الإسكندرية",
+  "national_id": "28306071309960",
+  "national_id_eastern": "٢٨٣٠٦٠٧١٣٠٩٩٦٠",
+  "governorate_code": "13",
+  "governorate_name": "الشرقية",
+  "is_male": false,
+  "birth_year": 1983,
+  "birth_month": 6,
+  "birth_day": 7,
+  "sample_id": "sample_0113",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      860.9453125,
+      132.9581756591797
+    ],
+    [
+      1744.4764404296875,
+      627.7744750976562
+    ],
+    [
+      1336.8428955078125,
+      903.9365234375
+    ],
+    [
+      697.8704833984375,
+      824.925537109375
+    ]
+  ]
+}

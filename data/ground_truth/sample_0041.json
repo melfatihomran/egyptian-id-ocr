@@ -1,0 +1,32 @@
+{
+  "full_name": "سلمى وليد ياسر البدري",
+  "address": "188 ممر الجيش، مدينة نصر، القاهرة",
+  "national_id": "27810142804306",
+  "national_id_eastern": "٢٧٨١٠١٤٢٨٠٤٣٠٦",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": false,
+  "birth_year": 1978,
+  "birth_month": 10,
+  "birth_day": 14,
+  "sample_id": "sample_0041",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      362.7756042480469,
+      129.40106201171875
+    ],
+    [
+      1463.6202392578125,
+      314.93231201171875
+    ],
+    [
+      1635.0482177734375,
+      844.494140625
+    ],
+    [
+      780.3532104492188,
+      942.2879028320312
+    ]
+  ]
+}

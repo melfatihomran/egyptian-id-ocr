@@ -1,0 +1,32 @@
+{
+  "full_name": "دينا وليد إبراهيم حسن",
+  "address": "164 ميدان الجمهورية، المهندسين، الجيزة",
+  "national_id": "28705213205443",
+  "national_id_eastern": "٢٨٧٠٥٢١٣٢٠٥٤٤٣",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 1987,
+  "birth_month": 5,
+  "birth_day": 21,
+  "sample_id": "sample_0054",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      227.666259765625,
+      120.86478424072266
+    ],
+    [
+      1285.805419921875,
+      199.54833984375
+    ],
+    [
+      1225.75390625,
+      786.56494140625
+    ],
+    [
+      181.63446044921875,
+      830.26513671875
+    ]
+  ]
+}

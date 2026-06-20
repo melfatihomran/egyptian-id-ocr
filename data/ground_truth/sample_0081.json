@@ -1,0 +1,32 @@
+{
+  "full_name": "دينا هشام حسين حسين",
+  "address": "196 ممر عبدالعزيز آل سعود، فيصل، الجيزة",
+  "national_id": "28610273309486",
+  "national_id_eastern": "٢٨٦١٠٢٧٣٣٠٩٤٨٦",
+  "governorate_code": "33",
+  "governorate_name": "مطروح",
+  "is_male": false,
+  "birth_year": 1986,
+  "birth_month": 10,
+  "birth_day": 27,
+  "sample_id": "sample_0081",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      289.232666015625,
+      179.64955139160156
+    ],
+    [
+      1249.965087890625,
+      204.09603881835938
+    ],
+    [
+      1280.7584228515625,
+      865.8818359375
+    ],
+    [
+      249.26296997070312,
+      745.6942749023438
+    ]
+  ]
+}

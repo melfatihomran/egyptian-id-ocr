@@ -1,0 +1,32 @@
+{
+  "full_name": "هشام ياسر عمر صادق",
+  "address": "76 ميدان النصر، السنبلاوين، الدقهلية",
+  "national_id": "29708062808237",
+  "national_id_eastern": "٢٩٧٠٨٠٦٢٨٠٨٢٣٧",
+  "governorate_code": "28",
+  "governorate_name": "أسوان",
+  "is_male": true,
+  "birth_year": 1997,
+  "birth_month": 8,
+  "birth_day": 6,
+  "sample_id": "sample_0131",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      161.30194091796875,
+      272.2110290527344
+    ],
+    [
+      1412.41357421875,
+      12.565921783447266
+    ],
+    [
+      1544.8189697265625,
+      892.4126586914062
+    ],
+    [
+      439.7527160644531,
+      1065.14208984375
+    ]
+  ]
+}

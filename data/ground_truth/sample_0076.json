@@ -1,0 +1,32 @@
+{
+  "full_name": "سلمى ياسر هشام عبدالرحمن",
+  "address": "65 شارع الجمهورية، الهرم، الجيزة",
+  "national_id": "29208222709722",
+  "national_id_eastern": "٢٩٢٠٨٢٢٢٧٠٩٧٢٢",
+  "governorate_code": "27",
+  "governorate_name": "قنا",
+  "is_male": false,
+  "birth_year": 1992,
+  "birth_month": 8,
+  "birth_day": 22,
+  "sample_id": "sample_0076",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      511.8399658203125,
+      212.13787841796875
+    ],
+    [
+      1120.0040283203125,
+      73.34099578857422
+    ],
+    [
+      1529.5040283203125,
+      749.7391967773438
+    ],
+    [
+      476.53546142578125,
+      781.0034790039062
+    ]
+  ]
+}

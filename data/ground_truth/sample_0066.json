@@ -1,0 +1,32 @@
+{
+  "full_name": "عمر زياد عماد النجار",
+  "address": "125 ممر الجيش، فيصل، الجيزة",
+  "national_id": "27710062607571",
+  "national_id_eastern": "٢٧٧١٠٠٦٢٦٠٧٥٧١",
+  "governorate_code": "26",
+  "governorate_name": "سوهاج",
+  "is_male": true,
+  "birth_year": 1977,
+  "birth_month": 10,
+  "birth_day": 6,
+  "sample_id": "sample_0066",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      282.8138732910156,
+      125.70723724365234
+    ],
+    [
+      1271.9173583984375,
+      178.42710876464844
+    ],
+    [
+      1311.7003173828125,
+      753.4851684570312
+    ],
+    [
+      189.46897888183594,
+      755.9224243164062
+    ]
+  ]
+}

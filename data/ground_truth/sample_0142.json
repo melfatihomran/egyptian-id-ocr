@@ -1,0 +1,32 @@
+{
+  "full_name": "مازن حمزة مازن سليمان",
+  "address": "97 ممر الاستقلال، فيصل، الجيزة",
+  "national_id": "30001252903993",
+  "national_id_eastern": "٣٠٠٠١٢٥٢٩٠٣٩٩٣",
+  "governorate_code": "29",
+  "governorate_name": "الأقصر",
+  "is_male": true,
+  "birth_year": 2000,
+  "birth_month": 1,
+  "birth_day": 25,
+  "sample_id": "sample_0142",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      407.0088806152344,
+      121.51383972167969
+    ],
+    [
+      1334.63623046875,
+      153.98768615722656
+    ],
+    [
+      1167.3011474609375,
+      785.4277954101562
+    ],
+    [
+      358.423095703125,
+      713.2686767578125
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "آية محمد يوسف زكي",
+  "address": "195 ميدان النصر، سيدي جابر، الإسكندرية",
+  "national_id": "30404050109545",
+  "national_id_eastern": "٣٠٤٠٤٠٥٠١٠٩٥٤٥",
+  "governorate_code": "01",
+  "governorate_name": "القاهرة",
+  "is_male": false,
+  "birth_year": 2004,
+  "birth_month": 4,
+  "birth_day": 5,
+  "sample_id": "sample_0034",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      195.05172729492188,
+      139.64207458496094
+    ],
+    [
+      1312.81787109375,
+      238.5217742919922
+    ],
+    [
+      1429.957275390625,
+      813.957275390625
+    ],
+    [
+      550.046875,
+      730.8392944335938
+    ]
+  ]
+}

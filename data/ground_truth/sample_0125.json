@@ -1,0 +1,32 @@
+{
+  "full_name": "حسن حسين رامي البدري",
+  "address": "69 ميدان الحرية، الزمالك، القاهرة",
+  "national_id": "28702083305554",
+  "national_id_eastern": "٢٨٧٠٢٠٨٣٣٠٥٥٥٤",
+  "governorate_code": "33",
+  "governorate_name": "مطروح",
+  "is_male": true,
+  "birth_year": 1987,
+  "birth_month": 2,
+  "birth_day": 8,
+  "sample_id": "sample_0125",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      719.2936401367188,
+      234.28294372558594
+    ],
+    [
+      1579.7786865234375,
+      498.9130859375
+    ],
+    [
+      1179.465576171875,
+      851.7671508789062
+    ],
+    [
+      664.0325927734375,
+      831.05517578125
+    ]
+  ]
+}

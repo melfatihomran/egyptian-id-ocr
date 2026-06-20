@@ -1,0 +1,32 @@
+{
+  "full_name": "وفاء سامح محمد علي",
+  "address": "156 شارع الجيش، ميت غمر، الدقهلية",
+  "national_id": "27706122306280",
+  "national_id_eastern": "٢٧٧٠٦١٢٢٣٠٦٢٨٠",
+  "governorate_code": "23",
+  "governorate_name": "الفيوم",
+  "is_male": false,
+  "birth_year": 1977,
+  "birth_month": 6,
+  "birth_day": 12,
+  "sample_id": "sample_0115",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      263.07708740234375,
+      111.79352569580078
+    ],
+    [
+      1517.876953125,
+      253.8067169189453
+    ],
+    [
+      1148.180908203125,
+      934.5113525390625
+    ],
+    [
+      262.102294921875,
+      872.7694702148438
+    ]
+  ]
+}

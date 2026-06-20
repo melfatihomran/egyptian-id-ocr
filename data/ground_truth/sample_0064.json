@@ -1,0 +1,32 @@
+{
+  "full_name": "خالد ياسر طارق حسن",
+  "address": "111 ممر الاستقلال، محرم بك، الإسكندرية",
+  "national_id": "29604201405614",
+  "national_id_eastern": "٢٩٦٠٤٢٠١٤٠٥٦١٤",
+  "governorate_code": "14",
+  "governorate_name": "القليوبية",
+  "is_male": true,
+  "birth_year": 1996,
+  "birth_month": 4,
+  "birth_day": 20,
+  "sample_id": "sample_0064",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      499.07080078125,
+      322.6463317871094
+    ],
+    [
+      1251.5103759765625,
+      270.63690185546875
+    ],
+    [
+      1323.81640625,
+      807.842529296875
+    ],
+    [
+      308.3748474121094,
+      837.142578125
+    ]
+  ]
+}

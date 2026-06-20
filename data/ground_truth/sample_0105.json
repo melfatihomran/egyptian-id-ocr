@@ -1,0 +1,32 @@
+{
+  "full_name": "هدى مازن عمر الشريف",
+  "address": "246 شارع الجمهورية، أبو حماد، الشرقية",
+  "national_id": "27707162505080",
+  "national_id_eastern": "٢٧٧٠٧١٦٢٥٠٥٠٨٠",
+  "governorate_code": "25",
+  "governorate_name": "أسيوط",
+  "is_male": false,
+  "birth_year": 1977,
+  "birth_month": 7,
+  "birth_day": 16,
+  "sample_id": "sample_0105",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      240.3122100830078,
+      93.79430389404297
+    ],
+    [
+      1208.186279296875,
+      134.7205810546875
+    ],
+    [
+      1287.4241943359375,
+      791.8880004882812
+    ],
+    [
+      233.24716186523438,
+      814.4332275390625
+    ]
+  ]
+}

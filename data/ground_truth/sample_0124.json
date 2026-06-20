@@ -1,0 +1,32 @@
+{
+  "full_name": "كريم سيف سامح مصطفى",
+  "address": "82 ممر النيل، طنطا، الغربية",
+  "national_id": "29204153103099",
+  "national_id_eastern": "٢٩٢٠٤١٥٣١٠٣٠٩٩",
+  "governorate_code": "31",
+  "governorate_name": "البحر الأحمر",
+  "is_male": true,
+  "birth_year": 1992,
+  "birth_month": 4,
+  "birth_day": 15,
+  "sample_id": "sample_0124",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      185.44522094726562,
+      206.66677856445312
+    ],
+    [
+      1449.8824462890625,
+      257.9696350097656
+    ],
+    [
+      1519.875,
+      962.4061279296875
+    ],
+    [
+      344.4992370605469,
+      889.7549438476562
+    ]
+  ]
+}

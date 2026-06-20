@@ -1,0 +1,32 @@
+{
+  "full_name": "جنى أحمد حسن الفاتح",
+  "address": "243 ممر الجمهورية، فيصل، الجيزة",
+  "national_id": "29309262404564",
+  "national_id_eastern": "٢٩٣٠٩٢٦٢٤٠٤٥٦٤",
+  "governorate_code": "24",
+  "governorate_name": "المنيا",
+  "is_male": false,
+  "birth_year": 1993,
+  "birth_month": 9,
+  "birth_day": 26,
+  "sample_id": "sample_0046",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      202.21153259277344,
+      279.1847229003906
+    ],
+    [
+      1530.8656005859375,
+      289.3822937011719
+    ],
+    [
+      1462.8271484375,
+      818.733154296875
+    ],
+    [
+      543.3731079101562,
+      879.8107299804688
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "طارق سيف وليد حسن",
+  "address": "10 ميدان الجمهورية، الزمالك، القاهرة",
+  "national_id": "28502063209138",
+  "national_id_eastern": "٢٨٥٠٢٠٦٣٢٠٩١٣٨",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": true,
+  "birth_year": 1985,
+  "birth_month": 2,
+  "birth_day": 6,
+  "sample_id": "sample_0122",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      787.8402709960938,
+      498.4056701660156
+    ],
+    [
+      1265.2197265625,
+      373.3063659667969
+    ],
+    [
+      1152.912353515625,
+      1097.84375
+    ],
+    [
+      817.8902587890625,
+      724.5300903320312
+    ]
+  ]
+}

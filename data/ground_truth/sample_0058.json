@@ -1,0 +1,32 @@
+{
+  "full_name": "وفاء حمزة عمر مصطفى",
+  "address": "79 ممر الجمهورية، حلوان، القاهرة",
+  "national_id": "27712021409722",
+  "national_id_eastern": "٢٧٧١٢٠٢١٤٠٩٧٢٢",
+  "governorate_code": "14",
+  "governorate_name": "القليوبية",
+  "is_male": false,
+  "birth_year": 1977,
+  "birth_month": 12,
+  "birth_day": 2,
+  "sample_id": "sample_0058",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      263.83770751953125,
+      175.6909637451172
+    ],
+    [
+      1575.4288330078125,
+      371.9457092285156
+    ],
+    [
+      1533.6719970703125,
+      998.2463989257812
+    ],
+    [
+      231.8825225830078,
+      801.207763671875
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "full_name": "ياسمين عبدالرحمن زياد خليل",
+  "address": "135 ممر الحرية، المعادي، القاهرة",
+  "national_id": "28107272401901",
+  "national_id_eastern": "٢٨١٠٧٢٧٢٤٠١٩٠١",
+  "governorate_code": "24",
+  "governorate_name": "المنيا",
+  "is_male": false,
+  "birth_year": 1981,
+  "birth_month": 7,
+  "birth_day": 27,
+  "sample_id": "sample_0146",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      624.4864501953125,
+      332.259765625
+    ],
+    [
+      1592.249755859375,
+      137.52810668945312
+    ],
+    [
+      1192.76806640625,
+      813.6416015625
+    ],
+    [
+      325.76263427734375,
+      998.1646728515625
+    ]
+  ]
+}

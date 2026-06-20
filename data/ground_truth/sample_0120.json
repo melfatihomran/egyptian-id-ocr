@@ -1,0 +1,32 @@
+{
+  "full_name": "منى حسن حسن حسن",
+  "address": "140 ممر عبدالعزيز آل سعود، ميامي، الإسكندرية",
+  "national_id": "28205052105684",
+  "national_id_eastern": "٢٨٢٠٥٠٥٢١٠٥٦٨٤",
+  "governorate_code": "21",
+  "governorate_name": "الجيزة",
+  "is_male": false,
+  "birth_year": 1982,
+  "birth_month": 5,
+  "birth_day": 5,
+  "sample_id": "sample_0120",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      259.9587097167969,
+      199.51806640625
+    ],
+    [
+      1317.1568603515625,
+      165.71095275878906
+    ],
+    [
+      1292.8697509765625,
+      747.3070068359375
+    ],
+    [
+      198.24200439453125,
+      786.31591796875
+    ]
+  ]
+}

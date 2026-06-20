@@ -1,0 +1,32 @@
+{
+  "full_name": "فادي عادل عمر مصطفى",
+  "address": "123 ممر الجيش، ميامي، الإسكندرية",
+  "national_id": "29107273508818",
+  "national_id_eastern": "٢٩١٠٧٢٧٣٥٠٨٨١٨",
+  "governorate_code": "35",
+  "governorate_name": "جنوب سيناء",
+  "is_male": true,
+  "birth_year": 1991,
+  "birth_month": 7,
+  "birth_day": 27,
+  "sample_id": "sample_0028",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      304.17608642578125,
+      256.0606384277344
+    ],
+    [
+      1233.52978515625,
+      146.5604248046875
+    ],
+    [
+      1218.432861328125,
+      954.4837036132812
+    ],
+    [
+      349.7331848144531,
+      871.22705078125
+    ]
+  ]
+}

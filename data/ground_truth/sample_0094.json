@@ -1,0 +1,32 @@
+{
+  "full_name": "محمود عماد أحمد النجار",
+  "address": "221 شارع الحرية، المنصورة، الدقهلية",
+  "national_id": "28304102905376",
+  "national_id_eastern": "٢٨٣٠٤١٠٢٩٠٥٣٧٦",
+  "governorate_code": "29",
+  "governorate_name": "الأقصر",
+  "is_male": true,
+  "birth_year": 1983,
+  "birth_month": 4,
+  "birth_day": 10,
+  "sample_id": "sample_0094",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      446.08892822265625,
+      328.1513671875
+    ],
+    [
+      1532.0118408203125,
+      199.09127807617188
+    ],
+    [
+      1472.177734375,
+      761.7063598632812
+    ],
+    [
+      299.3805847167969,
+      928.1304931640625
+    ]
+  ]
+}

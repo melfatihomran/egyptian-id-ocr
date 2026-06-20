@@ -1,0 +1,32 @@
+{
+  "full_name": "نهى يوسف مصطفى كامل",
+  "address": "68 ميدان السلام، حلوان، القاهرة",
+  "national_id": "28606272903525",
+  "national_id_eastern": "٢٨٦٠٦٢٧٢٩٠٣٥٢٥",
+  "governorate_code": "29",
+  "governorate_name": "الأقصر",
+  "is_male": false,
+  "birth_year": 1986,
+  "birth_month": 6,
+  "birth_day": 27,
+  "sample_id": "sample_0148",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      382.5478820800781,
+      113.5757064819336
+    ],
+    [
+      1570.321533203125,
+      209.14447021484375
+    ],
+    [
+      1174.2515869140625,
+      873.9703369140625
+    ],
+    [
+      421.63262939453125,
+      801.4772338867188
+    ]
+  ]
+}

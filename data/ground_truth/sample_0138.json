@@ -1,0 +1,32 @@
+{
+  "full_name": "زياد فادي سيف الفاتح",
+  "address": "101 ممر الثورة، ميامي، الإسكندرية",
+  "national_id": "29311042909052",
+  "national_id_eastern": "٢٩٣١١٠٤٢٩٠٩٠٥٢",
+  "governorate_code": "29",
+  "governorate_name": "الأقصر",
+  "is_male": true,
+  "birth_year": 1993,
+  "birth_month": 11,
+  "birth_day": 4,
+  "sample_id": "sample_0138",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      266.0347595214844,
+      200.7319793701172
+    ],
+    [
+      1306.6214599609375,
+      180.1761016845703
+    ],
+    [
+      1332.421875,
+      757.73779296875
+    ],
+    [
+      293.0334167480469,
+      768.06591796875
+    ]
+  ]
+}

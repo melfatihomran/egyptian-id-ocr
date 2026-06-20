@@ -1,0 +1,32 @@
+{
+  "full_name": "سارة مصطفى عماد محمود",
+  "address": "164 ميدان التحرير، طلخا، الدقهلية",
+  "national_id": "30104233204883",
+  "national_id_eastern": "٣٠١٠٤٢٣٣٢٠٤٨٨٣",
+  "governorate_code": "32",
+  "governorate_name": "الوادي الجديد",
+  "is_male": false,
+  "birth_year": 2001,
+  "birth_month": 4,
+  "birth_day": 23,
+  "sample_id": "sample_0112",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      268.64208984375,
+      320.93115234375
+    ],
+    [
+      1420.999755859375,
+      139.9182891845703
+    ],
+    [
+      1471.90234375,
+      965.3195190429688
+    ],
+    [
+      551.3568725585938,
+      965.76025390625
+    ]
+  ]
+}

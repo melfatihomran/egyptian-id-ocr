@@ -1,0 +1,32 @@
+{
+  "full_name": "غادة بلال وليد النجار",
+  "address": "136 ممر النيل، طنطا، الغربية",
+  "national_id": "29911021805722",
+  "national_id_eastern": "٢٩٩١١٠٢١٨٠٥٧٢٢",
+  "governorate_code": "18",
+  "governorate_name": "البحيرة",
+  "is_male": false,
+  "birth_year": 1999,
+  "birth_month": 11,
+  "birth_day": 2,
+  "sample_id": "sample_0056",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      664.6443481445312,
+      495.7934265136719
+    ],
+    [
+      1714.667236328125,
+      505.83282470703125
+    ],
+    [
+      1466.2115478515625,
+      969.8519287109375
+    ],
+    [
+      506.5284423828125,
+      718.9360961914062
+    ]
+  ]
+}

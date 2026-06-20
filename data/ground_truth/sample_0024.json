@@ -1,0 +1,32 @@
+{
+  "full_name": "هبة سيف عمر متولي",
+  "address": "96 ممر مكرم عبيد، كفر الزيات، الغربية",
+  "national_id": "27408021604187",
+  "national_id_eastern": "٢٧٤٠٨٠٢١٦٠٤١٨٧",
+  "governorate_code": "16",
+  "governorate_name": "الغربية",
+  "is_male": false,
+  "birth_year": 1974,
+  "birth_month": 8,
+  "birth_day": 2,
+  "sample_id": "sample_0024",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      319.7256774902344,
+      169.17156982421875
+    ],
+    [
+      1243.4449462890625,
+      128.34774780273438
+    ],
+    [
+      1277.6376953125,
+      796.0833740234375
+    ],
+    [
+      293.1065368652344,
+      774.6870727539062
+    ]
+  ]
+}

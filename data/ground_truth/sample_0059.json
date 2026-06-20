@@ -1,0 +1,32 @@
+{
+  "full_name": "فادي عمر رامي زكي",
+  "address": "177 شارع النيل، طنطا، الغربية",
+  "national_id": "29108181102114",
+  "national_id_eastern": "٢٩١٠٨١٨١١٠٢١١٤",
+  "governorate_code": "11",
+  "governorate_name": "دمياط",
+  "is_male": true,
+  "birth_year": 1991,
+  "birth_month": 8,
+  "birth_day": 18,
+  "sample_id": "sample_0059",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      806.7882080078125,
+      482.6136779785156
+    ],
+    [
+      1801.215576171875,
+      478.4676513671875
+    ],
+    [
+      1249.05712890625,
+      984.0443725585938
+    ],
+    [
+      214.8367462158203,
+      704.7725219726562
+    ]
+  ]
+}

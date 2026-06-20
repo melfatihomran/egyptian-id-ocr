@@ -1,0 +1,32 @@
+{
+  "full_name": "شيماء سامح يوسف الشيخ",
+  "address": "152 ميدان الحرية، سيدي جابر، الإسكندرية",
+  "national_id": "29407121104120",
+  "national_id_eastern": "٢٩٤٠٧١٢١١٠٤١٢٠",
+  "governorate_code": "11",
+  "governorate_name": "دمياط",
+  "is_male": false,
+  "birth_year": 1994,
+  "birth_month": 7,
+  "birth_day": 12,
+  "sample_id": "sample_0127",
+  "severity": "medium",
+  "card_corners_in_degraded_image": [
+    [
+      436.5858154296875,
+      379.745849609375
+    ],
+    [
+      1382.700439453125,
+      67.80879974365234
+    ],
+    [
+      1286.4384765625,
+      903.4169921875
+    ],
+    [
+      482.5423278808594,
+      781.7211303710938
+    ]
+  ]
+}

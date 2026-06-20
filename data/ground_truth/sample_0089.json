@@ -1,0 +1,32 @@
+{
+  "full_name": "أمل فادي محمود زكي",
+  "address": "32 ميدان السلام، شبرا، القاهرة",
+  "national_id": "30107180308063",
+  "national_id_eastern": "٣٠١٠٧١٨٠٣٠٨٠٦٣",
+  "governorate_code": "03",
+  "governorate_name": "بورسعيد",
+  "is_male": false,
+  "birth_year": 2001,
+  "birth_month": 7,
+  "birth_day": 18,
+  "sample_id": "sample_0089",
+  "severity": "heavy",
+  "card_corners_in_degraded_image": [
+    [
+      767.2659912109375,
+      372.40997314453125
+    ],
+    [
+      1750.8289794921875,
+      -7.5272088050842285
+    ],
+    [
+      1825.015380859375,
+      811.6835327148438
+    ],
+    [
+      854.3317260742188,
+      826.3389282226562
+    ]
+  ]
+}

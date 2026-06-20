@@ -1,0 +1,32 @@
+{
+  "full_name": "عبدالله وليد طارق إبراهيم",
+  "address": "112 ميدان الجمهورية، العجمي، الإسكندرية",
+  "national_id": "27708010103895",
+  "national_id_eastern": "٢٧٧٠٨٠١٠١٠٣٨٩٥",
+  "governorate_code": "01",
+  "governorate_name": "القاهرة",
+  "is_male": true,
+  "birth_year": 1977,
+  "birth_month": 8,
+  "birth_day": 1,
+  "sample_id": "sample_0144",
+  "severity": "light",
+  "card_corners_in_degraded_image": [
+    [
+      228.45608520507812,
+      134.5
+    ],
+    [
+      1323.26513671875,
+      137.0916290283203
+    ],
+    [
+      1261.443359375,
+      818.9151000976562
+    ],
+    [
+      254.68324279785156,
+      847.6050415039062
+    ]
+  ]
+}
