@@ -10,6 +10,26 @@
     "birth_year": 1971,
     "birth_month": 12,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        534,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        379,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0000",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -42,6 +62,26 @@
     "birth_year": 2005,
     "birth_month": 9,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        552,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        385,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0001",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -74,12 +114,32 @@
     "birth_year": 1973,
     "birth_month": 4,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        514,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        416,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0002",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        447.715576171875,
-        -62.72677230834961
+        447.7156066894531,
+        -62.726776123046875
       ],
       [
         1460.7030029296875,
@@ -106,6 +166,26 @@
     "birth_year": 2003,
     "birth_month": 6,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        473,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        468,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0003",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -138,6 +218,26 @@
     "birth_year": 1985,
     "birth_month": 3,
     "birth_day": 26,
+    "field_bboxes": {
+      "full_name": [
+        557,
+        195,
+        751,
+        224
+      ],
+      "address": [
+        421,
+        269,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0004",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -170,6 +270,26 @@
     "birth_year": 1980,
     "birth_month": 11,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        531,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        482,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        362,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0005",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -202,11 +322,31 @@
     "birth_year": 1996,
     "birth_month": 9,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        363,
+        262,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0006",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
-        307.9801330566406,
+        307.9801025390625,
         144.3694305419922
       ],
       [
@@ -234,6 +374,26 @@
     "birth_year": 1976,
     "birth_month": 7,
     "birth_day": 12,
+    "field_bboxes": {
+      "full_name": [
+        552,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        439,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0007",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -266,6 +426,26 @@
     "birth_year": 1970,
     "birth_month": 10,
     "birth_day": 10,
+    "field_bboxes": {
+      "full_name": [
+        528,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        363,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0008",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -298,6 +478,26 @@
     "birth_year": 1972,
     "birth_month": 3,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        528,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        301,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0009",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -330,6 +530,26 @@
     "birth_year": 1990,
     "birth_month": 4,
     "birth_day": 23,
+    "field_bboxes": {
+      "full_name": [
+        482,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        301,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0010",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -362,12 +582,32 @@
     "birth_year": 1997,
     "birth_month": 12,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        511,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        416,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0011",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        557.8600463867188,
-        130.54368591308594
+        557.860107421875,
+        130.54367065429688
       ],
       [
         1401.056640625,
@@ -394,6 +634,26 @@
     "birth_year": 1999,
     "birth_month": 12,
     "birth_day": 10,
+    "field_bboxes": {
+      "full_name": [
+        545,
+        192,
+        751,
+        223
+      ],
+      "address": [
+        377,
+        271,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0012",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -426,6 +686,26 @@
     "birth_year": 1989,
     "birth_month": 8,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        498,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        353,
+        262,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        355,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0013",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -442,7 +722,7 @@
         853.1976928710938
       ],
       [
-        480.80316162109375,
+        480.8031311035156,
         911.5567016601562
       ]
     ]
@@ -458,16 +738,36 @@
     "birth_year": 1970,
     "birth_month": 3,
     "birth_day": 28,
+    "field_bboxes": {
+      "full_name": [
+        532,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        374,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0014",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        682.03271484375,
+        682.0326538085938,
         347.72802734375
       ],
       [
         1718.3541259765625,
-        480.9736328125
+        480.9736022949219
       ],
       [
         1154.9312744140625,
@@ -490,6 +790,26 @@
     "birth_year": 1992,
     "birth_month": 6,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        474,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        440,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0015",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -522,6 +842,26 @@
     "birth_year": 1995,
     "birth_month": 3,
     "birth_day": 20,
+    "field_bboxes": {
+      "full_name": [
+        510,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        383,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0016",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -554,11 +894,31 @@
     "birth_year": 1996,
     "birth_month": 1,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        519,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        414,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0017",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        67.40637969970703,
+        67.40636444091797,
         452.1213684082031
       ],
       [
@@ -586,6 +946,26 @@
     "birth_year": 1989,
     "birth_month": 9,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        510,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        448,
+        277,
+        751,
+        303
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        384
+      ]
+    },
     "sample_id": "sample_0018",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -618,6 +998,26 @@
     "birth_year": 1982,
     "birth_month": 2,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        573,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        471,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0019",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -626,15 +1026,15 @@
         272.0856018066406
       ],
       [
-        1206.2708740234375,
-        303.584228515625
+        1206.27099609375,
+        303.5841979980469
       ],
       [
         1254.251708984375,
         865.9800415039062
       ],
       [
-        478.8924865722656,
+        478.89251708984375,
         926.364990234375
       ]
     ]
@@ -650,6 +1050,26 @@
     "birth_year": 1971,
     "birth_month": 8,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        548,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        280,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0020",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -682,6 +1102,26 @@
     "birth_year": 1978,
     "birth_month": 12,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        561,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        424,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0021",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -714,6 +1154,26 @@
     "birth_year": 1987,
     "birth_month": 5,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        541,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        398,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0022",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -730,7 +1190,7 @@
         878.5057373046875
       ],
       [
-        241.1856689453125,
+        241.18569946289062,
         912.5782470703125
       ]
     ]
@@ -746,16 +1206,36 @@
     "birth_year": 1981,
     "birth_month": 10,
     "birth_day": 28,
+    "field_bboxes": {
+      "full_name": [
+        489,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        373,
+        265,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0023",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        795.8294677734375,
+        795.8294067382812,
         242.32525634765625
       ],
       [
         1172.9566650390625,
-        127.55926513671875
+        127.55925750732422
       ],
       [
         1362.7652587890625,
@@ -778,6 +1258,26 @@
     "birth_year": 1974,
     "birth_month": 8,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        560,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        402,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0024",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -810,6 +1310,26 @@
     "birth_year": 1979,
     "birth_month": 5,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        383,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0025",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -819,7 +1339,7 @@
       ],
       [
         1291.8155517578125,
-        269.7688293457031
+        269.768798828125
       ],
       [
         1393.89306640625,
@@ -842,23 +1362,43 @@
     "birth_year": 2004,
     "birth_month": 11,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        507,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        397,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0026",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        5.02901029586792,
+        5.029003143310547,
         300.145263671875
       ],
       [
         1737.4954833984375,
-        285.1053466796875
+        285.1053161621094
       ],
       [
         1519.7950439453125,
         563.2410278320312
       ],
       [
-        843.054931640625,
+        843.0548706054688,
         870.612060546875
       ]
     ]
@@ -874,6 +1414,26 @@
     "birth_year": 2004,
     "birth_month": 6,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        503,
+        194,
+        751,
+        224
+      ],
+      "address": [
+        465,
+        270,
+        751,
+        295
+      ],
+      "national_id": [
+        546,
+        355,
+        751,
+        376
+      ]
+    },
     "sample_id": "sample_0027",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -883,11 +1443,11 @@
       ],
       [
         1229.206787109375,
-        140.0636444091797
+        140.06362915039062
       ],
       [
         1305.6895751953125,
-        783.9644775390625
+        783.9645385742188
       ],
       [
         319.15020751953125,
@@ -906,6 +1466,26 @@
     "birth_year": 1991,
     "birth_month": 7,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        531,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        417,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        362,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0028",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -938,16 +1518,36 @@
     "birth_year": 1975,
     "birth_month": 2,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        545,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        443,
+        259,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0029",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        152.67807006835938,
+        152.67808532714844,
         241.298828125
       ],
       [
         1182.3614501953125,
-        228.49319458007812
+        228.49317932128906
       ],
       [
         1545.8582763671875,
@@ -970,12 +1570,32 @@
     "birth_year": 1992,
     "birth_month": 1,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        477,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        377,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0030",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
         315.760009765625,
-        196.0210723876953
+        196.02105712890625
       ],
       [
         1320.2850341796875,
@@ -1002,6 +1622,26 @@
     "birth_year": 1975,
     "birth_month": 7,
     "birth_day": 17,
+    "field_bboxes": {
+      "full_name": [
+        549,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        411,
+        259,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0031",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1018,7 +1658,7 @@
         768.5763549804688
       ],
       [
-        471.3600158691406,
+        471.36004638671875,
         743.5921630859375
       ]
     ]
@@ -1034,6 +1674,26 @@
     "birth_year": 1970,
     "birth_month": 10,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        531,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        421,
+        273,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0032",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1043,7 +1703,7 @@
       ],
       [
         1244.6004638671875,
-        108.91098022460938
+        108.91097259521484
       ],
       [
         1093.7232666015625,
@@ -1066,6 +1726,26 @@
     "birth_year": 1973,
     "birth_month": 4,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        534,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        389,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0033",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1098,6 +1778,26 @@
     "birth_year": 2004,
     "birth_month": 4,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        554,
+        195,
+        751,
+        229
+      ],
+      "address": [
+        366,
+        274,
+        751,
+        305
+      ],
+      "national_id": [
+        546,
+        365,
+        751,
+        386
+      ]
+    },
     "sample_id": "sample_0034",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1130,6 +1830,26 @@
     "birth_year": 1982,
     "birth_month": 7,
     "birth_day": 12,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        344,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0035",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1139,7 +1859,7 @@
       ],
       [
         1680.6268310546875,
-        374.6524963378906
+        374.6524658203125
       ],
       [
         1208.917236328125,
@@ -1162,6 +1882,26 @@
     "birth_year": 1971,
     "birth_month": 12,
     "birth_day": 23,
+    "field_bboxes": {
+      "full_name": [
+        564,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        506,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0036",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1194,16 +1934,36 @@
     "birth_year": 1998,
     "birth_month": 12,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        555,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        368,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0037",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         398.0981140136719,
-        110.3826675415039
+        110.38265228271484
       ],
       [
         1544.2637939453125,
-        232.6675567626953
+        232.66757202148438
       ],
       [
         1324.02099609375,
@@ -1226,6 +1986,26 @@
     "birth_year": 1984,
     "birth_month": 9,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        547,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        459,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0038",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1258,6 +2038,26 @@
     "birth_year": 1987,
     "birth_month": 12,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        549,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        431,
+        267,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0039",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1290,6 +2090,26 @@
     "birth_year": 1987,
     "birth_month": 5,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        534,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        415,
+        273,
+        751,
+        300
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0040",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1299,7 +2119,7 @@
       ],
       [
         1519.035888671875,
-        187.56008911132812
+        187.56007385253906
       ],
       [
         1301.770263671875,
@@ -1322,6 +2142,26 @@
     "birth_year": 1978,
     "birth_month": 10,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        540,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        417,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0041",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1354,6 +2194,26 @@
     "birth_year": 1996,
     "birth_month": 5,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        519,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        371,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0042",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1386,6 +2246,26 @@
     "birth_year": 2003,
     "birth_month": 12,
     "birth_day": 23,
+    "field_bboxes": {
+      "full_name": [
+        572,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        351,
+        272,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0043",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1418,23 +2298,43 @@
     "birth_year": 1977,
     "birth_month": 8,
     "birth_day": 15,
+    "field_bboxes": {
+      "full_name": [
+        542,
+        194,
+        751,
+        225
+      ],
+      "address": [
+        388,
+        271,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0044",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        41.11368942260742,
+        41.11367416381836,
         203.82566833496094
       ],
       [
         1255.7325439453125,
-        378.9712219238281
+        378.97119140625
       ],
       [
         1886.9693603515625,
         879.3513793945312
       ],
       [
-        207.01760864257812,
+        207.0176239013672,
         826.7387084960938
       ]
     ]
@@ -1450,6 +2350,26 @@
     "birth_year": 1988,
     "birth_month": 12,
     "birth_day": 22,
+    "field_bboxes": {
+      "full_name": [
+        506,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        435,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0045",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1482,12 +2402,32 @@
     "birth_year": 1993,
     "birth_month": 9,
     "birth_day": 26,
+    "field_bboxes": {
+      "full_name": [
+        543,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        432,
+        273,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0046",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         202.21153259277344,
-        279.1847229003906
+        279.1846923828125
       ],
       [
         1530.8656005859375,
@@ -1514,12 +2454,32 @@
     "birth_year": 1996,
     "birth_month": 11,
     "birth_day": 28,
+    "field_bboxes": {
+      "full_name": [
+        542,
+        199,
+        751,
+        223
+      ],
+      "address": [
+        371,
+        264,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0047",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
         545.3001708984375,
-        422.2529296875
+        422.2529602050781
       ],
       [
         1541.904541015625,
@@ -1546,6 +2506,26 @@
     "birth_year": 1980,
     "birth_month": 9,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        553,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        313,
+        267,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0048",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1578,6 +2558,26 @@
     "birth_year": 2000,
     "birth_month": 8,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        528,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        462,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0049",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1610,6 +2610,26 @@
     "birth_year": 1992,
     "birth_month": 12,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        568,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        429,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0050",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1626,7 +2646,7 @@
         913.0259399414062
       ],
       [
-        144.59483337402344,
+        144.5948486328125,
         630.2135009765625
       ]
     ]
@@ -1642,6 +2662,26 @@
     "birth_year": 1994,
     "birth_month": 10,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        555,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        392,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0051",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1674,6 +2714,26 @@
     "birth_year": 1987,
     "birth_month": 8,
     "birth_day": 20,
+    "field_bboxes": {
+      "full_name": [
+        561,
+        192,
+        751,
+        223
+      ],
+      "address": [
+        306,
+        271,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0052",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1691,7 +2751,7 @@
       ],
       [
         201.86813354492188,
-        757.0105590820312
+        757.010498046875
       ]
     ]
   },
@@ -1706,11 +2766,31 @@
     "birth_year": 2003,
     "birth_month": 8,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        555,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        378,
+        272,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0053",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        97.97754669189453,
+        97.97755432128906,
         205.2141571044922
       ],
       [
@@ -1738,6 +2818,26 @@
     "birth_year": 1987,
     "birth_month": 5,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        544,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        372,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0054",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1770,6 +2870,26 @@
     "birth_year": 2001,
     "birth_month": 2,
     "birth_day": 22,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        453,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0055",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1802,11 +2922,31 @@
     "birth_year": 1999,
     "birth_month": 11,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        561,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        486,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0056",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        664.6443481445312,
+        664.644287109375,
         495.7934265136719
       ],
       [
@@ -1834,6 +2974,26 @@
     "birth_year": 1983,
     "birth_month": 12,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        549,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        379,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        355,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0057",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -1843,7 +3003,7 @@
       ],
       [
         1235.89208984375,
-        136.0150604248047
+        136.01507568359375
       ],
       [
         1280.5126953125,
@@ -1866,6 +3026,26 @@
     "birth_year": 1977,
     "birth_month": 12,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        532,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        443,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0058",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1898,6 +3078,26 @@
     "birth_year": 1991,
     "birth_month": 8,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        568,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        470,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0059",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -1930,12 +3130,32 @@
     "birth_year": 1985,
     "birth_month": 9,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        470,
+        273,
+        751,
+        300
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0060",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
         322.0065612792969,
-        111.23971557617188
+        111.23970794677734
       ],
       [
         1303.45751953125,
@@ -1962,6 +3182,26 @@
     "birth_year": 1983,
     "birth_month": 1,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        559,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        463,
+        273,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0061",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -1994,6 +3234,26 @@
     "birth_year": 1971,
     "birth_month": 3,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        524,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        424,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        371
+      ]
+    },
     "sample_id": "sample_0062",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2010,8 +3270,8 @@
         884.0057373046875
       ],
       [
-        722.0140991210938,
-        715.8291625976562
+        722.01416015625,
+        715.8291015625
       ]
     ]
   },
@@ -2026,6 +3286,26 @@
     "birth_year": 1989,
     "birth_month": 11,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        502,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        393,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0063",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2058,6 +3338,26 @@
     "birth_year": 1996,
     "birth_month": 4,
     "birth_day": 20,
+    "field_bboxes": {
+      "full_name": [
+        547,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        368,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0064",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2090,12 +3390,32 @@
     "birth_year": 1974,
     "birth_month": 11,
     "birth_day": 1,
+    "field_bboxes": {
+      "full_name": [
+        556,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        454,
+        265,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0065",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
         788.1227416992188,
-        113.8810043334961
+        113.88101959228516
       ],
       [
         1614.6917724609375,
@@ -2106,7 +3426,7 @@
         1126.2957763671875
       ],
       [
-        208.08103942871094,
+        208.0810089111328,
         863.851806640625
       ]
     ]
@@ -2122,6 +3442,26 @@
     "birth_year": 1977,
     "birth_month": 10,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        568,
+        199,
+        751,
+        223
+      ],
+      "address": [
+        460,
+        264,
+        751,
+        290
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        370
+      ]
+    },
     "sample_id": "sample_0066",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2154,11 +3494,31 @@
     "birth_year": 1977,
     "birth_month": 12,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        546,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        374,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0067",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
-        445.7441711425781,
+        445.74420166015625,
         268.83612060546875
       ],
       [
@@ -2186,6 +3546,26 @@
     "birth_year": 1972,
     "birth_month": 7,
     "birth_day": 22,
+    "field_bboxes": {
+      "full_name": [
+        532,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        306,
+        263,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0068",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2202,8 +3582,8 @@
         1095.9976806640625
       ],
       [
-        313.6101989746094,
-        620.7807006835938
+        313.6102294921875,
+        620.7806396484375
       ]
     ]
   },
@@ -2218,6 +3598,26 @@
     "birth_year": 1980,
     "birth_month": 1,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        540,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        439,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        371
+      ]
+    },
     "sample_id": "sample_0069",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2250,19 +3650,39 @@
     "birth_year": 1978,
     "birth_month": 8,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        476,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        455,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0070",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         323.7156066894531,
-        147.74302673339844
+        147.74301147460938
       ],
       [
-        1433.0841064453125,
-        120.34675598144531
+        1433.084228515625,
+        120.34673309326172
       ],
       [
-        1529.2037353515625,
+        1529.20361328125,
         870.3599243164062
       ],
       [
@@ -2282,6 +3702,26 @@
     "birth_year": 1983,
     "birth_month": 11,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        551,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        390,
+        273,
+        751,
+        300
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0071",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2314,6 +3754,26 @@
     "birth_year": 1986,
     "birth_month": 4,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        490,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        334,
+        262,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0072",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2346,6 +3806,26 @@
     "birth_year": 1997,
     "birth_month": 6,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        518,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        306,
+        263,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0073",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2359,7 +3839,7 @@
       ],
       [
         1437.9742431640625,
-        793.8821411132812
+        793.8822021484375
       ],
       [
         223.2923583984375,
@@ -2378,6 +3858,26 @@
     "birth_year": 2003,
     "birth_month": 11,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        540,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        455,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0074",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2394,7 +3894,7 @@
         1228.3353271484375
       ],
       [
-        74.8970947265625,
+        74.89708709716797,
         604.4337158203125
       ]
     ]
@@ -2410,12 +3910,32 @@
     "birth_year": 1992,
     "birth_month": 6,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        531,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        380,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0075",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
         307.0326843261719,
-        220.46759033203125
+        220.4676055908203
       ],
       [
         1187.0938720703125,
@@ -2426,7 +3946,7 @@
         788.8436889648438
       ],
       [
-        336.6211853027344,
+        336.62115478515625,
         776.0216674804688
       ]
     ]
@@ -2442,6 +3962,26 @@
     "birth_year": 1992,
     "birth_month": 8,
     "birth_day": 22,
+    "field_bboxes": {
+      "full_name": [
+        489,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        442,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0076",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2458,7 +3998,7 @@
         749.7391967773438
       ],
       [
-        476.53546142578125,
+        476.5354919433594,
         781.0034790039062
       ]
     ]
@@ -2474,6 +4014,26 @@
     "birth_year": 1974,
     "birth_month": 5,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        502,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        438,
+        260,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0077",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2483,7 +4043,7 @@
       ],
       [
         1564.7197265625,
-        460.0747985839844
+        460.07476806640625
       ],
       [
         1388.0526123046875,
@@ -2506,6 +4066,26 @@
     "birth_year": 1996,
     "birth_month": 5,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        541,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        442,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0078",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2538,6 +4118,26 @@
     "birth_year": 1985,
     "birth_month": 5,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        527,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        465,
+        273,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0079",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2570,6 +4170,26 @@
     "birth_year": 1980,
     "birth_month": 1,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        526,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        392,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0080",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2586,7 +4206,7 @@
         785.3018798828125
       ],
       [
-        582.2508544921875,
+        582.2507934570312,
         847.1773681640625
       ]
     ]
@@ -2602,6 +4222,26 @@
     "birth_year": 1986,
     "birth_month": 10,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        533,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        356,
+        263,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        355,
+        751,
+        376
+      ]
+    },
     "sample_id": "sample_0081",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2634,6 +4274,26 @@
     "birth_year": 1983,
     "birth_month": 3,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        538,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        337,
+        267,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0082",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2666,6 +4326,26 @@
     "birth_year": 2004,
     "birth_month": 1,
     "birth_day": 1,
+    "field_bboxes": {
+      "full_name": [
+        528,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        404,
+        264,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        362,
+        751,
+        383
+      ]
+    },
     "sample_id": "sample_0083",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2675,7 +4355,7 @@
       ],
       [
         1293.365966796875,
-        367.841064453125
+        367.8410339355469
       ],
       [
         1759.803955078125,
@@ -2698,6 +4378,26 @@
     "birth_year": 1999,
     "birth_month": 3,
     "birth_day": 10,
+    "field_bboxes": {
+      "full_name": [
+        489,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        292,
+        262,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        355,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0084",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2730,6 +4430,26 @@
     "birth_year": 1996,
     "birth_month": 6,
     "birth_day": 21,
+    "field_bboxes": {
+      "full_name": [
+        514,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        399,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0085",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2743,7 +4463,7 @@
       ],
       [
         1208.79345703125,
-        764.0353393554688
+        764.035400390625
       ],
       [
         451.4631652832031,
@@ -2762,16 +4482,36 @@
     "birth_year": 1973,
     "birth_month": 11,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        551,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        368,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0086",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        254.24777221679688,
-        400.18511962890625
+        254.24774169921875,
+        400.1851501464844
       ],
       [
-        1108.0135498046875,
-        165.58721923828125
+        1108.013671875,
+        165.58718872070312
       ],
       [
         1396.567138671875,
@@ -2794,6 +4534,26 @@
     "birth_year": 1992,
     "birth_month": 2,
     "birth_day": 28,
+    "field_bboxes": {
+      "full_name": [
+        544,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        217,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0087",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2807,10 +4567,10 @@
       ],
       [
         1206.1793212890625,
-        778.001708984375
+        778.0017700195312
       ],
       [
-        186.93740844726562,
+        186.93739318847656,
         773.0033569335938
       ]
     ]
@@ -2826,12 +4586,32 @@
     "birth_year": 1977,
     "birth_month": 1,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        516,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        425,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0088",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         294.3060302734375,
-        209.66529846191406
+        209.66531372070312
       ],
       [
         1391.9857177734375,
@@ -2858,6 +4638,26 @@
     "birth_year": 2001,
     "birth_month": 7,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        553,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        471,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        365,
+        751,
+        384
+      ]
+    },
     "sample_id": "sample_0089",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2890,6 +4690,26 @@
     "birth_year": 1970,
     "birth_month": 7,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        520,
+        194,
+        751,
+        229
+      ],
+      "address": [
+        435,
+        275,
+        751,
+        302
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0090",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2906,7 +4726,7 @@
         818.3035278320312
       ],
       [
-        210.32894897460938,
+        210.3289337158203,
         811.9042358398438
       ]
     ]
@@ -2922,6 +4742,26 @@
     "birth_year": 1992,
     "birth_month": 5,
     "birth_day": 19,
+    "field_bboxes": {
+      "full_name": [
+        510,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        402,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0091",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -2954,6 +4794,26 @@
     "birth_year": 1997,
     "birth_month": 12,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        488,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        425,
+        273,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0092",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -2986,6 +4846,26 @@
     "birth_year": 2004,
     "birth_month": 4,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        494,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        367,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0093",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -2995,7 +4875,7 @@
       ],
       [
         1282.61474609375,
-        151.2696533203125
+        151.26966857910156
       ],
       [
         1189.4371337890625,
@@ -3018,6 +4898,26 @@
     "birth_year": 1983,
     "birth_month": 4,
     "birth_day": 10,
+    "field_bboxes": {
+      "full_name": [
+        530,
+        192,
+        751,
+        223
+      ],
+      "address": [
+        407,
+        271,
+        751,
+        298
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0094",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -3050,6 +4950,26 @@
     "birth_year": 1994,
     "birth_month": 6,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        535,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        385,
+        272,
+        751,
+        303
+      ],
+      "national_id": [
+        546,
+        363,
+        751,
+        384
+      ]
+    },
     "sample_id": "sample_0095",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3082,6 +5002,26 @@
     "birth_year": 1983,
     "birth_month": 7,
     "birth_day": 10,
+    "field_bboxes": {
+      "full_name": [
+        569,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        405,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        376
+      ]
+    },
     "sample_id": "sample_0096",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3114,11 +5054,31 @@
     "birth_year": 1982,
     "birth_month": 4,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        525,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        334,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0097",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
-        476.7286376953125,
+        476.7286682128906,
         129.6291046142578
       ],
       [
@@ -3146,6 +5106,26 @@
     "birth_year": 1995,
     "birth_month": 12,
     "birth_day": 19,
+    "field_bboxes": {
+      "full_name": [
+        579,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        364,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0098",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3178,6 +5158,26 @@
     "birth_year": 1995,
     "birth_month": 7,
     "birth_day": 20,
+    "field_bboxes": {
+      "full_name": [
+        470,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        364,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0099",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3210,11 +5210,31 @@
     "birth_year": 1974,
     "birth_month": 11,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        547,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        425,
+        266,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        365,
+        751,
+        386
+      ]
+    },
     "sample_id": "sample_0100",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
-        473.7296447753906,
+        473.7296142578125,
         304.1400146484375
       ],
       [
@@ -3242,6 +5262,26 @@
     "birth_year": 2005,
     "birth_month": 7,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        489,
+        194,
+        751,
+        229
+      ],
+      "address": [
+        345,
+        272,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0101",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3274,6 +5314,26 @@
     "birth_year": 1977,
     "birth_month": 4,
     "birth_day": 22,
+    "field_bboxes": {
+      "full_name": [
+        543,
+        194,
+        751,
+        224
+      ],
+      "address": [
+        371,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0102",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3306,6 +5366,26 @@
     "birth_year": 1979,
     "birth_month": 4,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        503,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        467,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0103",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -3338,6 +5418,26 @@
     "birth_year": 1992,
     "birth_month": 4,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        550,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        397,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0104",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3354,8 +5454,8 @@
         1121.9373779296875
       ],
       [
-        602.143310546875,
-        696.6624145507812
+        602.1433715820312,
+        696.6624755859375
       ]
     ]
   },
@@ -3370,12 +5470,32 @@
     "birth_year": 1977,
     "birth_month": 7,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        543,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        383,
+        259,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0105",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
-        240.3122100830078,
-        93.79430389404297
+        240.31219482421875,
+        93.79429626464844
       ],
       [
         1208.186279296875,
@@ -3402,12 +5522,32 @@
     "birth_year": 1978,
     "birth_month": 6,
     "birth_day": 12,
+    "field_bboxes": {
+      "full_name": [
+        562,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        425,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        365,
+        751,
+        384
+      ]
+    },
     "sample_id": "sample_0106",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         219.9727783203125,
-        139.0072784423828
+        139.00729370117188
       ],
       [
         1245.8294677734375,
@@ -3434,6 +5574,26 @@
     "birth_year": 1987,
     "birth_month": 3,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        497,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        424,
+        272,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0107",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3450,7 +5610,7 @@
         1059.388427734375
       ],
       [
-        73.2872314453125,
+        73.28723907470703,
         677.282958984375
       ]
     ]
@@ -3466,6 +5626,26 @@
     "birth_year": 1970,
     "birth_month": 2,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        523,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        377,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0108",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3498,12 +5678,32 @@
     "birth_year": 1991,
     "birth_month": 3,
     "birth_day": 26,
+    "field_bboxes": {
+      "full_name": [
+        556,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        438,
+        264,
+        751,
+        295
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0109",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
-        425.76727294921875,
-        83.64613342285156
+        425.7673034667969,
+        83.6461410522461
       ],
       [
         1216.2061767578125,
@@ -3530,6 +5730,26 @@
     "birth_year": 1980,
     "birth_month": 5,
     "birth_day": 3,
+    "field_bboxes": {
+      "full_name": [
+        536,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        387,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0110",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3542,8 +5762,8 @@
         386.6596984863281
       ],
       [
-        1762.2388916015625,
-        951.0091552734375
+        1762.239013671875,
+        951.0092163085938
       ],
       [
         172.41122436523438,
@@ -3562,6 +5782,26 @@
     "birth_year": 1998,
     "birth_month": 3,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        507,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        411,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0111",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3594,6 +5834,26 @@
     "birth_year": 2001,
     "birth_month": 4,
     "birth_day": 23,
+    "field_bboxes": {
+      "full_name": [
+        508,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        429,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        351,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0112",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -3603,14 +5863,14 @@
       ],
       [
         1420.999755859375,
-        139.9182891845703
+        139.91830444335938
       ],
       [
         1471.90234375,
         965.3195190429688
       ],
       [
-        551.3568725585938,
+        551.35693359375,
         965.76025390625
       ]
     ]
@@ -3626,6 +5886,26 @@
     "birth_year": 1983,
     "birth_month": 6,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        540,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        372,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        362,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0113",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3658,6 +5938,26 @@
     "birth_year": 1985,
     "birth_month": 9,
     "birth_day": 13,
+    "field_bboxes": {
+      "full_name": [
+        489,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        397,
+        272,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        360,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0114",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3674,7 +5974,7 @@
         761.9401245117188
       ],
       [
-        244.89883422851562,
+        244.89881896972656,
         841.4608764648438
       ]
     ]
@@ -3690,6 +5990,26 @@
     "birth_year": 1977,
     "birth_month": 6,
     "birth_day": 12,
+    "field_bboxes": {
+      "full_name": [
+        549,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        403,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        358,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0115",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -3722,11 +6042,31 @@
     "birth_year": 1983,
     "birth_month": 9,
     "birth_day": 7,
+    "field_bboxes": {
+      "full_name": [
+        481,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        473,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0116",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        786.1093139648438,
+        786.109375,
         483.0468444824219
       ],
       [
@@ -3754,11 +6094,31 @@
     "birth_year": 1990,
     "birth_month": 3,
     "birth_day": 25,
+    "field_bboxes": {
+      "full_name": [
+        518,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        453,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0117",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
-        332.176025390625,
+        332.1759948730469,
         100.9944076538086
       ],
       [
@@ -3786,11 +6146,31 @@
     "birth_year": 1976,
     "birth_month": 11,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        439,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0118",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
-        223.9148712158203,
+        223.91488647460938,
         281.3435363769531
       ],
       [
@@ -3818,6 +6198,26 @@
     "birth_year": 1971,
     "birth_month": 4,
     "birth_day": 19,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        446,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0119",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3850,6 +6250,26 @@
     "birth_year": 1982,
     "birth_month": 5,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        548,
+        204,
+        751,
+        224
+      ],
+      "address": [
+        313,
+        257,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        375
+      ]
+    },
     "sample_id": "sample_0120",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -3882,6 +6302,26 @@
     "birth_year": 1985,
     "birth_month": 9,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        511,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        393,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0121",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -3914,6 +6354,26 @@
     "birth_year": 1985,
     "birth_month": 2,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        545,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        411,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0122",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -3922,7 +6382,7 @@
         498.4056701660156
       ],
       [
-        1265.2197265625,
+        1265.2198486328125,
         373.3063659667969
       ],
       [
@@ -3946,11 +6406,31 @@
     "birth_year": 1986,
     "birth_month": 11,
     "birth_day": 1,
+    "field_bboxes": {
+      "full_name": [
+        493,
+        195,
+        751,
+        225
+      ],
+      "address": [
+        441,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0123",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
-        173.7405548095703,
+        173.74053955078125,
         189.4650115966797
       ],
       [
@@ -3962,7 +6442,7 @@
         759.1300048828125
       ],
       [
-        187.9004364013672,
+        187.90042114257812,
         791.92724609375
       ]
     ]
@@ -3978,6 +6458,26 @@
     "birth_year": 1992,
     "birth_month": 4,
     "birth_day": 15,
+    "field_bboxes": {
+      "full_name": [
+        511,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        501,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0124",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4010,6 +6510,26 @@
     "birth_year": 1987,
     "birth_month": 2,
     "birth_day": 8,
+    "field_bboxes": {
+      "full_name": [
+        522,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        443,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0125",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4019,7 +6539,7 @@
       ],
       [
         1579.7786865234375,
-        498.9130859375
+        498.9130554199219
       ],
       [
         1179.465576171875,
@@ -4042,6 +6562,26 @@
     "birth_year": 1983,
     "birth_month": 6,
     "birth_day": 17,
+    "field_bboxes": {
+      "full_name": [
+        532,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        345,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        365,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0126",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4074,6 +6614,26 @@
     "birth_year": 1994,
     "birth_month": 7,
     "birth_day": 12,
+    "field_bboxes": {
+      "full_name": [
+        509,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        356,
+        266,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0127",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4083,7 +6643,7 @@
       ],
       [
         1382.700439453125,
-        67.80879974365234
+        67.8088150024414
       ],
       [
         1286.4384765625,
@@ -4106,6 +6666,26 @@
     "birth_year": 1998,
     "birth_month": 9,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        542,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        413,
+        270,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0128",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4122,8 +6702,8 @@
         1057.2335205078125
       ],
       [
-        460.19464111328125,
-        754.20361328125
+        460.1946105957031,
+        754.2036743164062
       ]
     ]
   },
@@ -4138,11 +6718,31 @@
     "birth_year": 1977,
     "birth_month": 6,
     "birth_day": 23,
+    "field_bboxes": {
+      "full_name": [
+        513,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        456,
+        259,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0129",
     "severity": "light",
     "card_corners_in_degraded_image": [
       [
-        194.60548400878906,
+        194.60546875,
         149.1292266845703
       ],
       [
@@ -4170,6 +6770,26 @@
     "birth_year": 2004,
     "birth_month": 10,
     "birth_day": 5,
+    "field_bboxes": {
+      "full_name": [
+        526,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        367,
+        277,
+        751,
+        304
+      ],
+      "national_id": [
+        546,
+        364,
+        751,
+        385
+      ]
+    },
     "sample_id": "sample_0130",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4186,7 +6806,7 @@
         814.4532470703125
       ],
       [
-        499.1335754394531,
+        499.133544921875,
         966.7452392578125
       ]
     ]
@@ -4202,6 +6822,26 @@
     "birth_year": 1997,
     "birth_month": 8,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        551,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        413,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0131",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4234,6 +6874,26 @@
     "birth_year": 1979,
     "birth_month": 3,
     "birth_day": 6,
+    "field_bboxes": {
+      "full_name": [
+        496,
+        206,
+        751,
+        224
+      ],
+      "address": [
+        408,
+        252,
+        751,
+        285
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0132",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4266,6 +6926,26 @@
     "birth_year": 1996,
     "birth_month": 2,
     "birth_day": 2,
+    "field_bboxes": {
+      "full_name": [
+        517,
+        192,
+        751,
+        225
+      ],
+      "address": [
+        410,
+        273,
+        751,
+        300
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        381
+      ]
+    },
     "sample_id": "sample_0133",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4298,6 +6978,26 @@
     "birth_year": 1994,
     "birth_month": 3,
     "birth_day": 18,
+    "field_bboxes": {
+      "full_name": [
+        552,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        380,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        374
+      ]
+    },
     "sample_id": "sample_0134",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4310,11 +7010,11 @@
         451.94183349609375
       ],
       [
-        1671.26171875,
-        571.0018310546875
+        1671.2618408203125,
+        571.0017700195312
       ],
       [
-        477.15887451171875,
+        477.1589050292969,
         1286.068359375
       ]
     ]
@@ -4330,6 +7030,26 @@
     "birth_year": 1975,
     "birth_month": 3,
     "birth_day": 8,
+    "field_bboxes": {
+      "full_name": [
+        521,
+        192,
+        751,
+        223
+      ],
+      "address": [
+        411,
+        271,
+        751,
+        297
+      ],
+      "national_id": [
+        546,
+        357,
+        751,
+        378
+      ]
+    },
     "sample_id": "sample_0135",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4362,6 +7082,26 @@
     "birth_year": 1993,
     "birth_month": 2,
     "birth_day": 26,
+    "field_bboxes": {
+      "full_name": [
+        533,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        434,
+        265,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0136",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4394,12 +7134,32 @@
     "birth_year": 1997,
     "birth_month": 5,
     "birth_day": 24,
+    "field_bboxes": {
+      "full_name": [
+        509,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        421,
+        266,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0137",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
         863.1986083984375,
-        84.95890808105469
+        84.95890045166016
       ],
       [
         1563.9603271484375,
@@ -4410,7 +7170,7 @@
         818.7074584960938
       ],
       [
-        774.3937377929688,
+        774.393798828125,
         932.9130859375
       ]
     ]
@@ -4426,6 +7186,26 @@
     "birth_year": 1993,
     "birth_month": 11,
     "birth_day": 4,
+    "field_bboxes": {
+      "full_name": [
+        551,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        428,
+        270,
+        751,
+        301
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        382
+      ]
+    },
     "sample_id": "sample_0138",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4443,7 +7223,7 @@
       ],
       [
         293.0334167480469,
-        768.06591796875
+        768.0658569335938
       ]
     ]
   },
@@ -4458,16 +7238,36 @@
     "birth_year": 2004,
     "birth_month": 12,
     "birth_day": 1,
+    "field_bboxes": {
+      "full_name": [
+        474,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        375,
+        272,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0139",
     "severity": "medium",
     "card_corners_in_degraded_image": [
       [
         403.4864807128906,
-        135.375732421875
+        135.37571716308594
       ],
       [
         1301.48291015625,
-        135.2946319580078
+        135.29461669921875
       ],
       [
         1508.182861328125,
@@ -4490,6 +7290,26 @@
     "birth_year": 1984,
     "birth_month": 3,
     "birth_day": 9,
+    "field_bboxes": {
+      "full_name": [
+        541,
+        192,
+        751,
+        229
+      ],
+      "address": [
+        334,
+        274,
+        751,
+        303
+      ],
+      "national_id": [
+        546,
+        366,
+        751,
+        387
+      ]
+    },
     "sample_id": "sample_0140",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4507,7 +7327,7 @@
       ],
       [
         683.7379150390625,
-        1136.705810546875
+        1136.7059326171875
       ]
     ]
   },
@@ -4522,6 +7342,26 @@
     "birth_year": 2004,
     "birth_month": 4,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        528,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        336,
+        263,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0141",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4554,6 +7394,26 @@
     "birth_year": 2000,
     "birth_month": 1,
     "birth_day": 25,
+    "field_bboxes": {
+      "full_name": [
+        532,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        452,
+        265,
+        751,
+        291
+      ],
+      "national_id": [
+        546,
+        352,
+        751,
+        372
+      ]
+    },
     "sample_id": "sample_0142",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4567,7 +7427,7 @@
       ],
       [
         1167.3011474609375,
-        785.4277954101562
+        785.427734375
       ],
       [
         358.423095703125,
@@ -4586,16 +7446,36 @@
     "birth_year": 1987,
     "birth_month": 8,
     "birth_day": 15,
+    "field_bboxes": {
+      "full_name": [
+        529,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        292,
+        267,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        361,
+        751,
+        379
+      ]
+    },
     "sample_id": "sample_0143",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
       [
-        698.3589477539062,
+        698.35888671875,
         88.11691284179688
       ],
       [
         1216.276611328125,
-        488.8221130371094
+        488.8221435546875
       ],
       [
         1636.5560302734375,
@@ -4618,6 +7498,26 @@
     "birth_year": 1977,
     "birth_month": 8,
     "birth_day": 1,
+    "field_bboxes": {
+      "full_name": [
+        511,
+        194,
+        751,
+        225
+      ],
+      "address": [
+        357,
+        271,
+        751,
+        302
+      ],
+      "national_id": [
+        546,
+        363,
+        751,
+        383
+      ]
+    },
     "sample_id": "sample_0144",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4650,6 +7550,26 @@
     "birth_year": 1976,
     "birth_month": 8,
     "birth_day": 16,
+    "field_bboxes": {
+      "full_name": [
+        546,
+        199,
+        751,
+        225
+      ],
+      "address": [
+        438,
+        266,
+        751,
+        293
+      ],
+      "national_id": [
+        546,
+        354,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0145",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4682,6 +7602,26 @@
     "birth_year": 1981,
     "birth_month": 7,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        483,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        451,
+        265,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0146",
     "severity": "heavy",
     "card_corners_in_degraded_image": [
@@ -4714,6 +7654,26 @@
     "birth_year": 1974,
     "birth_month": 12,
     "birth_day": 11,
+    "field_bboxes": {
+      "full_name": [
+        441,
+        192,
+        751,
+        224
+      ],
+      "address": [
+        419,
+        272,
+        751,
+        299
+      ],
+      "national_id": [
+        546,
+        359,
+        751,
+        380
+      ]
+    },
     "sample_id": "sample_0147",
     "severity": "light",
     "card_corners_in_degraded_image": [
@@ -4723,7 +7683,7 @@
       ],
       [
         1259.070068359375,
-        197.31723022460938
+        197.3172149658203
       ],
       [
         1190.6771240234375,
@@ -4746,6 +7706,26 @@
     "birth_year": 1986,
     "birth_month": 6,
     "birth_day": 27,
+    "field_bboxes": {
+      "full_name": [
+        517,
+        199,
+        751,
+        224
+      ],
+      "address": [
+        456,
+        265,
+        751,
+        292
+      ],
+      "national_id": [
+        546,
+        353,
+        751,
+        373
+      ]
+    },
     "sample_id": "sample_0148",
     "severity": "medium",
     "card_corners_in_degraded_image": [
@@ -4778,6 +7758,26 @@
     "birth_year": 2000,
     "birth_month": 8,
     "birth_day": 14,
+    "field_bboxes": {
+      "full_name": [
+        551,
+        199,
+        751,
+        229
+      ],
+      "address": [
+        383,
+        270,
+        751,
+        296
+      ],
+      "national_id": [
+        546,
+        356,
+        751,
+        377
+      ]
+    },
     "sample_id": "sample_0149",
     "severity": "heavy",
     "card_corners_in_degraded_image": [

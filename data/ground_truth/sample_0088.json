@@ -9,12 +9,32 @@
   "birth_year": 1977,
   "birth_month": 1,
   "birth_day": 7,
+  "field_bboxes": {
+    "full_name": [
+      516,
+      199,
+      751,
+      229
+    ],
+    "address": [
+      425,
+      270,
+      751,
+      297
+    ],
+    "national_id": [
+      546,
+      357,
+      751,
+      378
+    ]
+  },
   "sample_id": "sample_0088",
   "severity": "medium",
   "card_corners_in_degraded_image": [
     [
       294.3060302734375,
-      209.66529846191406
+      209.66531372070312
     ],
     [
       1391.9857177734375,

@@ -9,6 +9,26 @@
   "birth_year": 1980,
   "birth_month": 1,
   "birth_day": 16,
+  "field_bboxes": {
+    "full_name": [
+      540,
+      199,
+      751,
+      224
+    ],
+    "address": [
+      439,
+      265,
+      751,
+      291
+    ],
+    "national_id": [
+      546,
+      352,
+      751,
+      371
+    ]
+  },
   "sample_id": "sample_0069",
   "severity": "light",
   "card_corners_in_degraded_image": [

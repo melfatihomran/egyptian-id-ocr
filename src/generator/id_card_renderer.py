@@ -146,12 +146,20 @@ def generate_id_card(rng: random.Random):
         value_txt = _arabic(value)
         vbbox = draw.textbbox((0, 0), value_txt, font=vf)
         vw = vbbox[2] - vbbox[0]
-        draw.text((field_x_right - vw, y + 24), value_txt, font=vf, fill=TEXT_DARK)
-        return y + 24 + (vbbox[3] - vbbox[1]) + 18
+        value_y = y + 24
+        draw.text((field_x_right - vw, value_y), value_txt, font=vf, fill=TEXT_DARK)
+        # Absolute-image-coordinate bbox of the VALUE text only (not the
+        # label) - this is the ground truth a detector should localize.
+        value_bbox = [
+            field_x_right - vw, value_y + vbbox[1],
+            field_x_right, value_y + vbbox[3],
+        ]
+        next_y = y + 24 + (vbbox[3] - vbbox[1]) + 18
+        return next_y, value_bbox
 
     y = 165
-    y = draw_field(y, "الاسم", full_name)
-    y = draw_field(y, "العنوان", address)
+    y, name_bbox = draw_field(y, "الاسم", full_name)
+    y, address_bbox = draw_field(y, "العنوان", address)
 
     # National ID number - rendered LTR as a digit string (IDs are written
     # left-to-right even on an otherwise RTL card), using Eastern Arabic
@@ -169,6 +177,10 @@ def generate_id_card(rng: random.Random):
     nw = nbbox[2] - nbbox[0]
     nid_y = y + 38
     draw.text((field_x_right - nw, nid_y), eastern_nid, font=nid_value_font, fill=ACCENT_BLUE)
+    national_id_bbox = [
+        field_x_right - nw, nid_y + nbbox[1],
+        field_x_right, nid_y + nbbox[3],
+    ]
 
     # subtle box around the ID number, like the real card
     pad = 8
@@ -190,6 +202,17 @@ def generate_id_card(rng: random.Random):
         "birth_year": id_info["birth_year"],
         "birth_month": id_info["birth_month"],
         "birth_day": id_info["birth_day"],
+        # Bounding boxes [x0,y0,x1,y1] of each VALUE field in clean-card
+        # pixel space. perspective_correct() warps to output_size=(1011,638)
+        # - the same as CARD_W,CARD_H here - so a correctly-preprocessed
+        # degraded image lands back in this exact coordinate space, making
+        # these directly usable as detection-accuracy ground truth without
+        # any extra transform.
+        "field_bboxes": {
+            "full_name": [round(v, 1) for v in name_bbox],
+            "address": [round(v, 1) for v in address_bbox],
+            "national_id": [round(v, 1) for v in national_id_bbox],
+        },
     }
     return img, ground_truth
 

@@ -9,6 +9,26 @@
   "birth_year": 1992,
   "birth_month": 8,
   "birth_day": 22,
+  "field_bboxes": {
+    "full_name": [
+      489,
+      199,
+      751,
+      225
+    ],
+    "address": [
+      442,
+      266,
+      751,
+      293
+    ],
+    "national_id": [
+      546,
+      354,
+      751,
+      374
+    ]
+  },
   "sample_id": "sample_0076",
   "severity": "medium",
   "card_corners_in_degraded_image": [
@@ -25,7 +45,7 @@
       749.7391967773438
     ],
     [
-      476.53546142578125,
+      476.5354919433594,
       781.0034790039062
     ]
   ]
