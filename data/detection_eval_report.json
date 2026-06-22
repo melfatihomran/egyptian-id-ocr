@@ -1,0 +1,307 @@
+{
+  "pass_iou_threshold": 0.5,
+  "by_severity": {
+    "light": {
+      "full_name": {
+        "n": 7,
+        "passed": 0,
+        "pass_rate": 0.0,
+        "mean_iou": 0.2942
+      },
+      "address": {
+        "n": 7,
+        "passed": 0,
+        "pass_rate": 0.0,
+        "mean_iou": 0.2465
+      },
+      "national_id": {
+        "n": 7,
+        "passed": 7,
+        "pass_rate": 1.0,
+        "mean_iou": 0.7662
+      }
+    },
+    "medium": {
+      "full_name": {
+        "n": 7,
+        "passed": 1,
+        "pass_rate": 0.1429,
+        "mean_iou": 0.3009
+      },
+      "address": {
+        "n": 7,
+        "passed": 0,
+        "pass_rate": 0.0,
+        "mean_iou": 0.2305
+      },
+      "national_id": {
+        "n": 7,
+        "passed": 7,
+        "pass_rate": 1.0,
+        "mean_iou": 0.7383
+      }
+    },
+    "heavy": {
+      "full_name": {
+        "n": 6,
+        "passed": 0,
+        "pass_rate": 0.0,
+        "mean_iou": 0.25
+      },
+      "address": {
+        "n": 6,
+        "passed": 0,
+        "pass_rate": 0.0,
+        "mean_iou": 0.2369
+      },
+      "national_id": {
+        "n": 6,
+        "passed": 5,
+        "pass_rate": 0.8333,
+        "mean_iou": 0.7038
+      }
+    }
+  },
+  "failures": [
+    {
+      "sample_id": "sample_0000",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.2543
+    },
+    {
+      "sample_id": "sample_0000",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2398
+    },
+    {
+      "sample_id": "sample_0001",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.2753
+    },
+    {
+      "sample_id": "sample_0001",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.259
+    },
+    {
+      "sample_id": "sample_0002",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.2416
+    },
+    {
+      "sample_id": "sample_0002",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.2134
+    },
+    {
+      "sample_id": "sample_0003",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.3199
+    },
+    {
+      "sample_id": "sample_0003",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2473
+    },
+    {
+      "sample_id": "sample_0004",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.281
+    },
+    {
+      "sample_id": "sample_0004",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.2975
+    },
+    {
+      "sample_id": "sample_0005",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.1506
+    },
+    {
+      "sample_id": "sample_0005",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.1553
+    },
+    {
+      "sample_id": "sample_0005",
+      "severity": "heavy",
+      "field": "national_id",
+      "best_iou": 0.4038
+    },
+    {
+      "sample_id": "sample_0006",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.2874
+    },
+    {
+      "sample_id": "sample_0006",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2873
+    },
+    {
+      "sample_id": "sample_0007",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.2353
+    },
+    {
+      "sample_id": "sample_0007",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.2115
+    },
+    {
+      "sample_id": "sample_0008",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.2822
+    },
+    {
+      "sample_id": "sample_0008",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.2551
+    },
+    {
+      "sample_id": "sample_0009",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.2825
+    },
+    {
+      "sample_id": "sample_0009",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2186
+    },
+    {
+      "sample_id": "sample_0010",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.2137
+    },
+    {
+      "sample_id": "sample_0010",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.1954
+    },
+    {
+      "sample_id": "sample_0011",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.2686
+    },
+    {
+      "sample_id": "sample_0011",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.2546
+    },
+    {
+      "sample_id": "sample_0012",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.2471
+    },
+    {
+      "sample_id": "sample_0012",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2652
+    },
+    {
+      "sample_id": "sample_0013",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.2083
+    },
+    {
+      "sample_id": "sample_0013",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.2283
+    },
+    {
+      "sample_id": "sample_0014",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.2901
+    },
+    {
+      "sample_id": "sample_0014",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.2564
+    },
+    {
+      "sample_id": "sample_0015",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.3549
+    },
+    {
+      "sample_id": "sample_0015",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2404
+    },
+    {
+      "sample_id": "sample_0016",
+      "severity": "medium",
+      "field": "full_name",
+      "best_iou": 0.233
+    },
+    {
+      "sample_id": "sample_0016",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.1808
+    },
+    {
+      "sample_id": "sample_0017",
+      "severity": "heavy",
+      "field": "full_name",
+      "best_iou": 0.2668
+    },
+    {
+      "sample_id": "sample_0017",
+      "severity": "heavy",
+      "field": "address",
+      "best_iou": 0.2867
+    },
+    {
+      "sample_id": "sample_0018",
+      "severity": "light",
+      "field": "full_name",
+      "best_iou": 0.3135
+    },
+    {
+      "sample_id": "sample_0018",
+      "severity": "light",
+      "field": "address",
+      "best_iou": 0.2268
+    },
+    {
+      "sample_id": "sample_0019",
+      "severity": "medium",
+      "field": "address",
+      "best_iou": 0.2411
+    }
+  ]
+}
